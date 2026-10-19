@@ -12,7 +12,7 @@ CKAN = "https://ckan0.cf.opendata.inter.prod-toronto.ca"
 PACKAGE_ID = os.environ.get("PACKAGE_ID", "municipal-licensing-and-standards-business-licences-and-permits")
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "120"))
 INCLUDE = [k.strip().upper() for k in os.environ.get(
-    "CATEGORY_KEYWORDS", "EATING ESTABLISHMENT,TAKE-OUT,RETAIL FOOD,RESTAURANT,FOOD").split(",")]
+    "CATEGORY_KEYWORDS", "EATING OR DRINKING,EATING ESTABLISHMENT,TAKE-OUT,RETAIL FOOD,RESTAURANT,FOOD").split(",")]
 EXCLUDE = ["MOBILE", "VEHICLE", "CART", "TRUCK", "MANUFACTUR"]
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "docs", "data.json")
 UA = {"User-Agent": "new-toronto-restaurants/1.1"}
