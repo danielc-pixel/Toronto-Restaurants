@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>New Toronto Restaurants</title>
+<style>
+:root{--bg:#faf8f5;--fg:#1c1b19;--muted:#6b665e;--card:#fff;--line:#e6e1d8;--accent:#c2410c}
+@media (prefers-color-scheme:dark){:root{--bg:#161513;--fg:#f1ede6;--muted:#a09a8e;--card:#201f1c;--line:#34312c;--accent:#fb923c}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+main{max-width:900px;margin:0 auto;padding:32px 16px 64px}
+h1{margin:0 0 4px;font-size:28px}
+.sub{color:var(--muted);margin:0 0 20px;font-size:14px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+input,select,button{font:inherit;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)}
+input{flex:1;min-width:180px}
+button{cursor:pointer;color:var(--accent);border-color:var(--accent)}
+.item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:8px;display:flex;justify-content:space-between;gap:12px}
+.name{font-weight:600}
+.addr,.cat{color:var(--muted);font-size:14px}
+.date{white-space:nowrap;font-size:14px;color:var(--accent);text-align:right}
+.note{color:var(--muted);font-size:13px;margin-top:28px}
+.empty{padding:32px;text-align:center;color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<h1>New Toronto Restaurants</h1>
+<p class="sub" id="meta">Loading...</p>
+<div class="bar">
+  <input id="q" type="search" placeholder="Search name or address">
+  <select id="days">
+    <option value="7">Last 7 days</option>
+    <option value="30" selected>Last 30 days</option>
+    <option value="60">Last 60 days</option>
+    <option value="120">Last 120 days</option>
+  </select>
+  <button id="csv">Download CSV</button>
+</div>
+<div id="list"></div>
+<p class="note">Data: City of Toronto Municipal Licensing and Standards business licences, published under the Open Government Licence - Toronto. A licence issue date means the business has registered, not necessarily that it has opened. Includes take-out and retail food establishments.</p>
+</main>
+<script>
+let data = {records: []}, shown = [];
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function render() {
+  const q = $('q').value.trim().toLowerCase();
+  const cutoff = new Date(Date.now() - $('days').value * 864e5).toISOString().slice(0, 10);
+  shown = data.records.filter(r => r.issued >= cutoff &&
+    (!q || (r.name + ' ' + r.address).toLowerCase().includes(q)));
+  $('list').innerHTML = shown.length ? shown.map(r => `
+    <div class="item">
+      <div><div class="name">${esc(r.name || 'Unnamed')}</div>
+      <div class="addr">${esc(r.address)}</div><div class="cat">${esc(r.category)}</div></div>
+      <div class="date">${esc(r.issued)}</div>
+    </div>`).join('') : '<div class="empty">No results. If this is a fresh deploy, run the update workflow once.</div>';
+}
+
+function csv() {
+  const rows = [['Name','Address','Category','Issued','Licence No']].concat(
+    shown.map(r => [r.name, r.address, r.category, r.issued, r.licence_no]));
+  const text = rows.map(r => r.map(v => '"' + String(v ?? '').replace(/"/g, '""') + '"').join(',')).join('\n');
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([text], {type: 'text/csv'}));
+  a.download = 'new-toronto-restaurants.csv';
+  a.click();
+}
+
+fetch('data.json', {cache: 'no-cache'}).then(r => r.json()).then(d => {
+  data = d;
+  $('meta').textContent = d.generated_at
+    ? 'Updated daily. Last refresh: ' + new Date(d.generated_at).toLocaleString()
+    : 'No data yet.';
+  render();
+}).catch(() => { $('meta').textContent = 'Could not load data.'; });
+
+$('q').addEventListener('input', render);
+$('days').addEventListener('change', render);
+$('csv').addEventListener('click', csv);
+</script>
+</body>
+</html>
