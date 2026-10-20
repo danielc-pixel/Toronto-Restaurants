@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-19T19:56:37+00:00",
+ "generated_at": "2026-10-20T11:19:19+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 806,
+ "count": 818,
  "debug": {
-  "rows_scanned": 160039,
+  "rows_scanned": 160046,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,27 +42,27 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36682
+    36681
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26337
+    26339
    ],
    [
     "PUBLIC GARAGE",
-    11766
+    11767
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11157
+    11163
    ],
    [
     "TAXICAB OWNER",
-    9354
+    9352
    ],
    [
     "BUILDING RENOVATOR",
-    9063
+    9060
    ],
    [
     "NOISE EXEMPTION",
@@ -82,11 +82,11 @@
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3138
+    3139
    ],
    [
     "SIDEWALK CAFE",
-    2487
+    2488
    ],
    [
     "PLUMBING CONTRACTOR",
@@ -106,11 +106,11 @@
    ],
    [
     "HOLISTIC CENTRE",
-    2052
+    2051
    ],
    [
     "SECOND HAND SHOP",
-    1809
+    1810
    ],
    [
     "MASTER HEATING INSTALLER",
@@ -118,7 +118,7 @@
    ],
    [
     "MOTORIZED REFRESHMENT VEHICLE OWNER",
-    1367
+    1368
    ],
    [
     "CLOTHING DROP BOX LOCATION PERMIT",
@@ -154,7 +154,7 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    546
+    547
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
@@ -178,6 +178,20 @@
    "licence_no": "B71-5676306"
   },
   {
+   "name": "PROBABLY NOTHING",
+   "address": "50 BRANT ST, K26, TORONTO, ON, M5V 3G9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-01",
+   "licence_no": "B50-5678249"
+  },
+  {
+   "name": "MIZZICA GELATERIA & CAFE",
+   "address": "1080 ST CLAIR AVE W, A&B, TORONTO, ON, M6E 1A7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B71-5679975"
+  },
+  {
    "name": "AL-MEEZANS SPICY GRILL",
    "address": "670 REXDALE BLVD, #4, TORONTO, ON, M9W 0B5",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -197,6 +211,83 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-10-23",
    "licence_no": "B50-5676638"
+  },
+  {
+   "name": "CHEESEORABAKERY",
+   "address": "2109 1/2 YONGE ST, TORONTO, ON, M4S 2A4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-20",
+   "licence_no": "B50-5671165"
+  },
+  {
+   "name": "BATCH COOKIES",
+   "address": "34 LENNOX ST, #6, TORONTO, ON, M6G 0B6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-20",
+   "licence_no": "B50-5677261"
+  },
+  {
+   "name": "OH SO SWEET ICE CREAM",
+   "address": "737 OSSINGTON AVE, TORONTO, ON, M6G 3T8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-20",
+   "licence_no": "B50-5678812"
+  },
+  {
+   "name": "VABIR CHA",
+   "address": "2966 DANFORTH AVE, TORONTO, ON, M4C 1M6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-20",
+   "licence_no": "B50-5678827"
+  },
+  {
+   "name": "TEA FOR U",
+   "address": "1465 DUNDAS ST W, TORONTO, ON, M6J 1Y7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-20",
+   "licence_no": "B71-5671008"
+  },
+  {
+   "name": "SOLENA BRUNCH & BAR",
+   "address": "1224 ST CLAIR AVE W, TORONTO, ON, M6E 1B4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-20",
+   "licence_no": "B71-5678797"
+  },
+  {
+   "name": "BD SUPERMARKET PLUS INC",
+   "address": "3470-3472 DANFORTH AVE, #3470, TORONTO, ON, M1L 1E1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-19",
+   "licence_no": "B50-5675429"
+  },
+  {
+   "name": "FINCSI BUFE",
+   "address": "1205 WESTON RD, TORONTO, ON, M6M 4P6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-19",
+   "licence_no": "B50-5679977"
+  },
+  {
+   "name": "LA BARBACHA MEXICAN FOOD",
+   "address": "1647 QUEEN ST W, TORONTO, ON, M6R 1A9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-19",
+   "licence_no": "B71-5679982"
+  },
+  {
+   "name": "EGG HOUSE",
+   "address": "2130 MORNINGSIDE AVE, C4, TORONTO, ON, M1X 0C9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-19",
+   "licence_no": "B71-5679989"
+  },
+  {
+   "name": "QA CAFE",
+   "address": "1982 DANFORTH AVE, TORONTO, ON, M4C 1J6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-18",
+   "licence_no": "B71-5676393"
   },
   {
    "name": "FAST FOOD CART",
@@ -5797,13 +5888,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-06-22",
    "licence_no": "B71-5645727"
-  },
-  {
-   "name": "XOM",
-   "address": "5588 YONGE ST, TORONTO, ON, M2N 5S2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-21",
-   "licence_no": "B71-5643205"
   }
  ]
 }
