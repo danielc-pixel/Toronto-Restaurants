@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-21T11:19:28+00:00",
+ "generated_at": "2026-10-22T11:20:21+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 825,
+ "count": 828,
  "debug": {
-  "rows_scanned": 160076,
+  "rows_scanned": 160099,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,11 +42,11 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36690
+    36695
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26343
+    26348
    ],
    [
     "PUBLIC GARAGE",
@@ -54,15 +54,15 @@
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11170
+    11173
    ],
    [
     "TAXICAB OWNER",
-    9353
+    9354
    ],
    [
     "BUILDING RENOVATOR",
-    9062
+    9061
    ],
    [
     "NOISE EXEMPTION",
@@ -70,7 +70,7 @@
    ],
    [
     "TOW TRUCK OWNER",
-    4839
+    4837
    ],
    [
     "TEMPORARY SIGN - MOBILE",
@@ -78,11 +78,11 @@
    ],
    [
     "MASTER PLUMBER",
-    3277
+    3281
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3139
+    3140
    ],
    [
     "SIDEWALK CAFE",
@@ -90,7 +90,7 @@
    ],
    [
     "PLUMBING CONTRACTOR",
-    2373
+    2374
    ],
    [
     "LIMOUSINE OWNER",
@@ -130,7 +130,7 @@
    ],
    [
     "HEATING CONTRACTOR",
-    802
+    803
    ],
    [
     "DRIVING SCHOOL OPERATOR (B)",
@@ -142,7 +142,7 @@
    ],
    [
     "TORONTO TAXICAB OWNER",
-    739
+    740
    ],
    [
     "CURB LANE CAFE",
@@ -154,7 +154,7 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    547
+    548
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
@@ -227,11 +227,67 @@
    "licence_no": "B50-5679570"
   },
   {
+   "name": "LOOP BAKERY",
+   "address": "3700 MIDLAND AVE, #122, TORONTO, ON, M1V 0B4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5677307"
+  },
+  {
+   "name": "SHIRIN JAAN PASTRY",
+   "address": "508 YONGE ST, #2, TORONTO, ON, M4Y 1X9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5677358"
+  },
+  {
+   "name": "SULTANS MEDITERRANEAN GRILL",
+   "address": "700 UNIVERSITY AVE, HSC 1, TORONTO, ON, M5G 1Z5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5679607"
+  },
+  {
+   "name": "PIZZERIA ORO DI NAPOLI",
+   "address": "2312 LAKE SHORE BLVD W, TORONTO, ON, M8V 1B5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B71-5679953"
+  },
+  {
+   "name": "CHICK-FIL-A",
+   "address": "300 BOROUGH DR, R001, TORONTO, ON, M1P 4P5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B71-5681668"
+  },
+  {
    "name": "KAO KANG (DUFFERIN MALL)",
    "address": "900 DUFFERIN ST, #0090, TORONTO, ON, M6H 4A9",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-10-21",
    "licence_no": "B50-5678409"
+  },
+  {
+   "name": "KABEER HALAL MEAT",
+   "address": "31 TAPSCOTT RD, #99, TORONTO, ON, M1B 4Y7",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-21",
+   "licence_no": "B50-5681941"
+  },
+  {
+   "name": "DANG GOOD DONUTS",
+   "address": "499 DANFORTH AVE, TORONTO, ON, M4K 1P5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-21",
+   "licence_no": "B50-5657411"
+  },
+  {
+   "name": "AZAD SUPERMARKET - 2",
+   "address": "90 HALSEY AVE, #1, TORONTO, ON, M4B 1A9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-21",
+   "licence_no": "B50-5681942"
   },
   {
    "name": "RAJDHANI SWEETS & RESTAURANT",
@@ -274,6 +330,34 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-21",
    "licence_no": "B71-5680002"
+  },
+  {
+   "name": "REVITASIZE",
+   "address": "1012 COXWELL AVE, TORONTO, ON, M4C 3G5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-21",
+   "licence_no": "B71-5344169"
+  },
+  {
+   "name": "PAMPANGUENA",
+   "address": "3776 BATHURST ST, TORONTO, ON, M3H 3M6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-21",
+   "licence_no": "B71-5614166"
+  },
+  {
+   "name": "LATTE LICIOUS CAFE",
+   "address": "1683 ST CLAIR AVE W, TORONTO, ON, M6N 1H9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-21",
+   "licence_no": "B71-5681679"
+  },
+  {
+   "name": "KAMINARI",
+   "address": "1330 QUEEN ST W, TORONTO, ON, M6K 1L4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-21",
+   "licence_no": "B71-5681963"
   },
   {
    "name": "CHEESEORABAKERY",
@@ -787,7 +871,7 @@
    "licence_no": "B71-5677357"
   },
   {
-   "name": "DAHU HOTPOT",
+   "name": "BA NGOAI-VIETNAMESE HOME KITCHEN",
    "address": "47 BALDWIN ST, TORONTO, ON, M5T 1L1",
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-09",
@@ -1905,13 +1989,6 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-09-18",
    "licence_no": "B50-5663511"
-  },
-  {
-   "name": "FRESH LAND FOODCOURT",
-   "address": "31 TAPSCOTT RD, #99, TORONTO, ON, M1B 4Y7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-09-18",
-   "licence_no": "B50-5666655"
   },
   {
    "name": "6IX CONVENIENCE",
@@ -3193,13 +3270,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-08-25",
    "licence_no": "B71-5656290"
-  },
-  {
-   "name": "BAR FILO",
-   "address": "146 YONGE ST, TORONTO, ON, M5C 1X6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-08-25",
-   "licence_no": "B71-5662031"
   },
   {
    "name": "LA PATRONA -TRADITIONAL MEXICAN FOOD",
@@ -5888,55 +5958,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-06-24",
    "licence_no": "B71-5646268"
-  },
-  {
-   "name": "SOBR MARKET DANFORTH",
-   "address": "2057A DANFORTH AVE, TORONTO, ON, M4C 1J8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-23",
-   "licence_no": "B50-5635358"
-  },
-  {
-   "name": "EVA'S DAILY CAFE",
-   "address": "3333 LAKE SHORE BLVD W, TORONTO, ON, M8W 1N1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-23",
-   "licence_no": "B50-5643613"
-  },
-  {
-   "name": "SHOPPERS DRUG MART #809",
-   "address": "3110 BATHURST ST, TORONTO, ON, M6A 2A1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-23",
-   "licence_no": "B50-5645627"
-  },
-  {
-   "name": "CURRY KITCHEN PLUS SHAWARMA & FALAFEL",
-   "address": "94 DUNDAS ST E, TORONTO, ON, M5B 1C9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-23",
-   "licence_no": "B50-5645335"
-  },
-  {
-   "name": "THE NOODLE BAR",
-   "address": "5443 YONGE ST, TORONTO, ON, M2N 5S1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-23",
-   "licence_no": "B71-5645355"
-  },
-  {
-   "name": "SHAWARMA ROYALE",
-   "address": "5415 DUNDAS ST W, #8, TORONTO, ON, M9B 1B5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-23",
-   "licence_no": "B71-5645758"
-  },
-  {
-   "name": "SPQR ESPRESSO BAR",
-   "address": "92 AVENUE RD, TORONTO, ON, M5R 2H2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-23",
-   "licence_no": "B71-5645931"
   }
  ]
 }
