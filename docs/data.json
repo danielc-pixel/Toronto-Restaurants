@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-22T11:20:21+00:00",
+ "generated_at": "2026-10-23T11:19:56+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 828,
+ "count": 829,
  "debug": {
-  "rows_scanned": 160099,
+  "rows_scanned": 160100,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,15 +42,15 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36695
+    36696
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26348
+    26351
    ],
    [
     "PUBLIC GARAGE",
-    11768
+    11767
    ],
    [
     "PERSONAL SERVICES SETTINGS",
@@ -58,7 +58,7 @@
    ],
    [
     "TAXICAB OWNER",
-    9354
+    9355
    ],
    [
     "BUILDING RENOVATOR",
@@ -70,7 +70,7 @@
    ],
    [
     "TOW TRUCK OWNER",
-    4837
+    4833
    ],
    [
     "TEMPORARY SIGN - MOBILE",
@@ -82,7 +82,7 @@
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3140
+    3141
    ],
    [
     "SIDEWALK CAFE",
@@ -110,7 +110,7 @@
    ],
    [
     "SECOND HAND SHOP",
-    1811
+    1810
    ],
    [
     "MASTER HEATING INSTALLER",
@@ -126,7 +126,7 @@
    ],
    [
     "NON-MOTORIZED REFRESHMENT VEHICLE OWNER",
-    1073
+    1074
    ],
    [
     "HEATING CONTRACTOR",
@@ -158,7 +158,7 @@
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
-    535
+    534
    ]
   ]
  },
@@ -190,6 +190,13 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-11-01",
    "licence_no": "B71-5678989"
+  },
+  {
+   "name": "AAHARA MARKET",
+   "address": "367 PITFIELD RD, TORONTO, ON, M1S 3E5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5682141"
   },
   {
    "name": "MIZZICA GELATERIA & CAFE",
@@ -227,6 +234,34 @@
    "licence_no": "B50-5679570"
   },
   {
+   "name": "LUCKY LARRY MART",
+   "address": "2428 BLOOR ST W, TORONTO, ON, M6S 1P9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B50-5679000"
+  },
+  {
+   "name": "SANGEETHAVEG",
+   "address": "3601 LAWRENCE AVE E, #1, TORONTO, ON, M1G 1P5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B71-5677250"
+  },
+  {
+   "name": "HYUNI NE",
+   "address": "643A MOUNT PLEASANT RD, TORONTO, ON, M4S 2M9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B71-5678565"
+  },
+  {
+   "name": "ROYWOODS",
+   "address": "115 FORT YORK BLVD, TORONTO, ON, M5V 3M5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B71-5682160"
+  },
+  {
    "name": "LOOP BAKERY",
    "address": "3700 MIDLAND AVE, #122, TORONTO, ON, M1V 0B4",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -248,6 +283,41 @@
    "licence_no": "B50-5679607"
   },
   {
+   "name": "CARPATHIAN BBQ HOUSE",
+   "address": "675 THE QUEENSWAY, TORONTO, ON, M8Y 1K8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5682154"
+  },
+  {
+   "name": "CITY CENTRE CONVENIENCE",
+   "address": "5 PARK HOME AVE, #160, TORONTO, ON, M2N 6L4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5682165"
+  },
+  {
+   "name": "MY-MARKET",
+   "address": "266 MANITOBA ST, #8, TORONTO, ON, M8Y 4G9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5679978"
+  },
+  {
+   "name": "TAZA XPRESS",
+   "address": "987 BAY ST, TORONTO, ON, M5S 3C4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5682185"
+  },
+  {
+   "name": "BACKYARD CATERING",
+   "address": "2889 ST CLAIR AVE E, C, TORONTO, ON, M4B 1N5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B50-5682189"
+  },
+  {
    "name": "PIZZERIA ORO DI NAPOLI",
    "address": "2312 LAKE SHORE BLVD W, TORONTO, ON, M8V 1B5",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -260,6 +330,34 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-22",
    "licence_no": "B71-5681668"
+  },
+  {
+   "name": "THE COFFEE 30 ST CLAIR",
+   "address": "30 ST CLAIR AVE W, #100, TORONTO, ON, M4V 3A1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B71-5682153"
+  },
+  {
+   "name": "THE COFFEE 387 FRONT STREET",
+   "address": "387 FRONT ST W, TORONTO, ON, M5V 3S8",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B71-5682159"
+  },
+  {
+   "name": "DRAGON VIEW SEAFOOD AUTHENTIC CHINESE CUISINE",
+   "address": "4452 SHEPPARD AVE E, TORONTO, ON, M1S 1V2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B71-5681966"
+  },
+  {
+   "name": "MR. KHAMAN",
+   "address": "1753 ALBION RD, #1, TORONTO, ON, M9V 1C3",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-22",
+   "licence_no": "B71-5682166"
   },
   {
    "name": "KAO KANG (DUFFERIN MALL)",
@@ -4238,13 +4336,6 @@
    "licence_no": "B71-5656941"
   },
   {
-   "name": "BAR WELLINGTON",
-   "address": "520 WELLINGTON ST W, TORONTO, ON, M5V 1E3",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-08-03",
-   "licence_no": "B71-5650807"
-  },
-  {
    "name": "WENDYS",
    "address": "865 YORK MILLS RD, #11, TORONTO, ON, M3B 1Y6",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -5874,90 +5965,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-06-25",
    "licence_no": "B71-5647378"
-  },
-  {
-   "name": "COBS BREAD",
-   "address": "2204 BLOOR ST W, TORONTO, ON, M6S 1N4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B50-5642328"
-  },
-  {
-   "name": "JERK KING",
-   "address": "1102-1104 BLOOR ST W, TORONTO, ON, M6H 1M8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B50-5642680"
-  },
-  {
-   "name": "PICKLEPLEX SOCIAL CLUB DOWNSVIEW",
-   "address": "40 CARL HALL RD, #49, TORONTO, ON, M3K 2C1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B50-5643622"
-  },
-  {
-   "name": "PARTY CITY",
-   "address": "8 LEBOVIC AVE, B6, TORONTO, ON, M1L 4V9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B50-5645954"
-  },
-  {
-   "name": "DANFORTH MILK STORE",
-   "address": "939 DANFORTH AVE, TORONTO, ON, M4J 1L8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B50-5646263"
-  },
-  {
-   "name": "DOMINO'S PIZZA",
-   "address": "3148 KINGSTON RD, #1, TORONTO, ON, M1M 1P4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B50-5644813"
-  },
-  {
-   "name": "AZUL MEXICAN",
-   "address": "601 COLLEGE ST, TORONTO, ON, M6G 1B5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B71-5644791"
-  },
-  {
-   "name": "CHENNAI MASALA CAFE",
-   "address": "432 PARLIAMENT ST, TORONTO, ON, M5A 3A2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B71-5645004"
-  },
-  {
-   "name": "SANSOTEI RAMEN",
-   "address": "2131 YONGE ST, #3, TORONTO, ON, M4S 0C5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B71-5645745"
-  },
-  {
-   "name": "THE INDIAN KITCHEN-BIRYANI AND DOSA",
-   "address": "3334 YONGE ST, TORONTO, ON, M4N 2M4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B71-5646258"
-  },
-  {
-   "name": "MAMBO ITALIANO",
-   "address": "1330 GERRARD ST E, A/B, TORONTO, ON, M4L 1Z1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B71-5646265"
-  },
-  {
-   "name": "KITS.CA",
-   "address": "735 QUEEN ST W, TORONTO, ON, M6J 1G1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-24",
-   "licence_no": "B71-5646268"
   }
  ]
 }
