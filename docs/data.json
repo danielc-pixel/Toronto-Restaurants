@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-23T11:19:56+00:00",
+ "generated_at": "2026-10-24T11:14:01+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 829,
+ "count": 834,
  "debug": {
-  "rows_scanned": 160100,
+  "rows_scanned": 160102,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,19 +42,19 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36696
+    36700
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26351
+    26349
    ],
    [
     "PUBLIC GARAGE",
-    11767
+    11762
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11173
+    11175
    ],
    [
     "TAXICAB OWNER",
@@ -74,11 +74,11 @@
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4482
+    4483
    ],
    [
     "MASTER PLUMBER",
-    3281
+    3282
    ],
    [
     "DRIVING INSTRUCTOR (V)",
@@ -94,7 +94,7 @@
    ],
    [
     "LIMOUSINE OWNER",
-    2338
+    2339
    ],
    [
     "LAUNDRY PREMISES",
@@ -158,7 +158,7 @@
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
-    534
+    532
    ]
   ]
  },
@@ -220,6 +220,20 @@
    "licence_no": "B50-5656237"
   },
   {
+   "name": "UPPER BEACHES BOURBON HOUSE",
+   "address": "3655 ST CLAIR AVE E, #3, TORONTO, ON, M1M 1T1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-24",
+   "licence_no": "B71-5678794"
+  },
+  {
+   "name": "ANNALAKSHMI CONSUMERS ROAD",
+   "address": "233 CONSUMERS RD, E, TORONTO, ON, M2J 0E9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-24",
+   "licence_no": "B71-5681660"
+  },
+  {
    "name": "SHOPPERS DRUG MART",
    "address": "275 QUEEN ST E, TORONTO, ON, M5A 1C5",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -241,6 +255,20 @@
    "licence_no": "B50-5679000"
   },
   {
+   "name": "ALI BABA MIDDLE EASTERN CUISINE",
+   "address": "73 QUEEN ST E, TORONTO, ON, M5C 1R8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B50-5657395"
+  },
+  {
+   "name": "ONUS",
+   "address": "3300 BLOOR ST W, FC3, TORONTO, ON, M8X 2W8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B50-5682372"
+  },
+  {
    "name": "SANGEETHAVEG",
    "address": "3601 LAWRENCE AVE E, #1, TORONTO, ON, M1G 1P5",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -260,6 +288,34 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-23",
    "licence_no": "B71-5682160"
+  },
+  {
+   "name": "SAWALI KUBO RESTAURANT",
+   "address": "3434 BATHURST ST, TORONTO, ON, M6A 2C2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B71-5682359"
+  },
+  {
+   "name": "LAZEEZ SHAWARMA / ROYAL PAAN",
+   "address": "62 OVERLEA BLVD, D2 & D3, TORONTO, ON, M4H 1C4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B71-5682368"
+  },
+  {
+   "name": "NOON MOMENT",
+   "address": "654 SHEPPARD AVE W, TORONTO, ON, M3H 2S5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B71-5682378"
+  },
+  {
+   "name": "ORCHARD KITCHEN",
+   "address": "700 KING ST W, #702 & 704, TORONTO, ON, M5V 2Y6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-23",
+   "licence_no": "B71-5682396"
   },
   {
    "name": "LOOP BAKERY",
@@ -5944,27 +6000,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-06-26",
    "licence_no": "B71-5646261"
-  },
-  {
-   "name": "LAWGARDEN INDIAN STREET FOOD",
-   "address": "1940 LAWRENCE AVE E, TORONTO, ON, M1R 2Y7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-25",
-   "licence_no": "B50-5645016"
-  },
-  {
-   "name": "MEL ROSE VARIETY",
-   "address": "140 LA ROSE AVE, #13, TORONTO, ON, M9P 1B1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-25",
-   "licence_no": "B50-5633466"
-  },
-  {
-   "name": "NAM 6",
-   "address": "2111 SHEPPARD AVE E, TORONTO, ON, M2J 1W6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-25",
-   "licence_no": "B71-5647378"
   }
  ]
 }
