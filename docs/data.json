@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-24T11:14:01+00:00",
+ "generated_at": "2026-10-25T11:14:15+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 834,
+ "count": 830,
  "debug": {
   "rows_scanned": 160102,
   "fields": [
@@ -5972,34 +5972,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-06-27",
    "licence_no": "B71-5647374"
-  },
-  {
-   "name": "BOBA TEA",
-   "address": "1396 QUEEN ST W, TORONTO, ON, M6K 1L7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-26",
-   "licence_no": "B50-5646262"
-  },
-  {
-   "name": "SUBWAY",
-   "address": "167 CHURCH ST, TORONTO, ON, M5B 1Y4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-26",
-   "licence_no": "B71-5645309"
-  },
-  {
-   "name": "PIZZA PIZZA",
-   "address": "1193 BLOOR ST W, TORONTO, ON, M6H 1N4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-26",
-   "licence_no": "B71-5645750"
-  },
-  {
-   "name": "BIG BOY'S GRILL",
-   "address": "2849 KINGSTON RD, TORONTO, ON, M1M 1N2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-26",
-   "licence_no": "B71-5646261"
   }
  ]
 }
