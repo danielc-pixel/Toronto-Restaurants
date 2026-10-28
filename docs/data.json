@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-25T11:14:15+00:00",
+ "generated_at": "2026-10-28T11:41:22+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 830,
+ "count": 835,
  "debug": {
-  "rows_scanned": 160102,
+  "rows_scanned": 160103,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,23 +42,23 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36700
+    36694
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26349
+    26350
    ],
    [
     "PUBLIC GARAGE",
-    11762
+    11759
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11175
+    11174
    ],
    [
     "TAXICAB OWNER",
-    9355
+    9354
    ],
    [
     "BUILDING RENOVATOR",
@@ -66,7 +66,7 @@
    ],
    [
     "NOISE EXEMPTION",
-    4960
+    4963
    ],
    [
     "TOW TRUCK OWNER",
@@ -74,7 +74,7 @@
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4483
+    4488
    ],
    [
     "MASTER PLUMBER",
@@ -86,15 +86,15 @@
    ],
    [
     "SIDEWALK CAFE",
-    2488
+    2489
    ],
    [
     "PLUMBING CONTRACTOR",
-    2374
+    2375
    ],
    [
     "LIMOUSINE OWNER",
-    2339
+    2340
    ],
    [
     "LAUNDRY PREMISES",
@@ -102,15 +102,15 @@
    ],
    [
     "COMMERCIAL PARKING LOT",
-    2064
+    2066
    ],
    [
     "HOLISTIC CENTRE",
-    2050
+    2049
    ],
    [
     "SECOND HAND SHOP",
-    1810
+    1813
    ],
    [
     "MASTER HEATING INSTALLER",
@@ -126,7 +126,7 @@
    ],
    [
     "NON-MOTORIZED REFRESHMENT VEHICLE OWNER",
-    1074
+    1070
    ],
    [
     "HEATING CONTRACTOR",
@@ -154,7 +154,7 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    548
+    549
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
@@ -211,6 +211,97 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-29",
    "licence_no": "B71-5679600"
+  },
+  {
+   "name": "MOUSSA'S SHAWARMA AND GRILL",
+   "address": "2389 FINCH AVE W, TORONTO, ON, M9M 2W5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-28",
+   "licence_no": "B71-5678789"
+  },
+  {
+   "name": "LIBRARY COFFEE",
+   "address": "200 WELLINGTON ST W, #150, TORONTO, ON, M5V 3C7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-28",
+   "licence_no": "B71-5682950"
+  },
+  {
+   "name": "HARRINGTON'S CONVENIENCE",
+   "address": "325 MILNER AVE, #107, TORONTO, ON, M1B 5N1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B50-5671171"
+  },
+  {
+   "name": "AMIRTHAM TAKE-OUT",
+   "address": "1265 MORNINGSIDE AVE, #106, TORONTO, ON, M1B 3V9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B50-5677351"
+  },
+  {
+   "name": "THE HUT",
+   "address": "2528 YONGE ST, TORONTO, ON, M4P 2H7",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B50-5678584"
+  },
+  {
+   "name": "A&W",
+   "address": "220 YONGE ST, FC 14, TORONTO, ON, M5B 2H1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B50-5678993"
+  },
+  {
+   "name": "PIZZA PIZZA STORE 40",
+   "address": "847 JANE ST, TORONTO, ON, M6N 4C4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B71-5681667"
+  },
+  {
+   "name": "PHO MAMA",
+   "address": "1325 FINCH AVE W, TORONTO, ON, M3J 2G5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B71-5681967"
+  },
+  {
+   "name": "BIG WAY HOT POT",
+   "address": "235 QUEEN ST W, TORONTO, ON, M5V 1Z4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B71-5682175"
+  },
+  {
+   "name": "SUBWAY",
+   "address": "785 STEELES AVE W, TORONTO, ON, M2R 3W9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B71-5682191"
+  },
+  {
+   "name": "SUBWAY",
+   "address": "5919 LESLIE ST, TORONTO, ON, M2H 1J8",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B71-5682769"
+  },
+  {
+   "name": "MR. CONVENIENCE",
+   "address": "1863 DAVENPORT RD, TORONTO, ON, M6N 1B9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-26",
+   "licence_no": "B50-5682773"
+  },
+  {
+   "name": "MAC N' WINGS",
+   "address": "105 THE POND RD, R130, TORONTO, ON, M3J 0K9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-26",
+   "licence_no": "B71-5682171"
   },
   {
    "name": "DURANTE'S NO FRILLS",
@@ -5916,62 +6007,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-06-30",
    "licence_no": "B71-5648120"
-  },
-  {
-   "name": "MARS THE STARS BAKERY",
-   "address": "2211 KINGSTON RD, TORONTO, ON, M1N 1T7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-29",
-   "licence_no": "B50-5646267"
-  },
-  {
-   "name": "1001471362 ONTARIO INC",
-   "address": "1133 QUEENS PLATE DR, #1212-1213, TORONTO, ON, M9W 6K5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-29",
-   "licence_no": "B50-5645308"
-  },
-  {
-   "name": "PUUFFY",
-   "address": "439 SPADINA AVE, TORONTO, ON, M5T 2G6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-29",
-   "licence_no": "B71-5647947"
-  },
-  {
-   "name": "PEPPER MEET PEPPER",
-   "address": "41-43 BALDWIN ST, BSMT, TORONTO, ON, M5T 1L1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-29",
-   "licence_no": "B71-5647987"
-  },
-  {
-   "name": "ISRAA SHAWARMA",
-   "address": "40 CARL HALL RD, E7, TORONTO, ON, M3K 2C1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-28",
-   "licence_no": "B50-5642735"
-  },
-  {
-   "name": "LHAO",
-   "address": "39 BALDWIN ST, TORONTO, ON, M5T 1L1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-28",
-   "licence_no": "B71-5642720"
-  },
-  {
-   "name": "KENSINGTON CORNER",
-   "address": "374 SPADINA AVE, TORONTO, ON, M5T 2G4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-06-27",
-   "licence_no": "B50-5645939"
-  },
-  {
-   "name": "SOUPER HOT POT",
-   "address": "388 BLOOR ST W, TORONTO, ON, M5S 1X4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-27",
-   "licence_no": "B71-5647374"
   }
  ]
 }
