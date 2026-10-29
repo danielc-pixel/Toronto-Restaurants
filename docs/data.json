@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-28T11:41:22+00:00",
+ "generated_at": "2026-10-29T11:27:59+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 835,
+ "count": 843,
  "debug": {
-  "rows_scanned": 160103,
+  "rows_scanned": 160117,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,11 +42,11 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36694
+    36698
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26350
+    26346
    ],
    [
     "PUBLIC GARAGE",
@@ -54,7 +54,7 @@
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11174
+    11185
    ],
    [
     "TAXICAB OWNER",
@@ -66,7 +66,7 @@
    ],
    [
     "NOISE EXEMPTION",
-    4963
+    4960
    ],
    [
     "TOW TRUCK OWNER",
@@ -90,11 +90,11 @@
    ],
    [
     "PLUMBING CONTRACTOR",
-    2375
+    2376
    ],
    [
     "LIMOUSINE OWNER",
-    2340
+    2341
    ],
    [
     "LAUNDRY PREMISES",
@@ -102,7 +102,7 @@
    ],
    [
     "COMMERCIAL PARKING LOT",
-    2066
+    2064
    ],
    [
     "HOLISTIC CENTRE",
@@ -126,7 +126,7 @@
    ],
    [
     "NON-MOTORIZED REFRESHMENT VEHICLE OWNER",
-    1070
+    1071
    ],
    [
     "HEATING CONTRACTOR",
@@ -154,7 +154,7 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    549
+    550
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
@@ -169,6 +169,13 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-12-04",
    "licence_no": "B50-5668444"
+  },
+  {
+   "name": "EDO JAPAN",
+   "address": "300 BOROUGH DR, FC-12, TORONTO, ON, M1P 4P5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-17",
+   "licence_no": "B50-5681684"
   },
   {
    "name": "A&W",
@@ -213,6 +220,41 @@
    "licence_no": "B71-5679600"
   },
   {
+   "name": "SOY BOYS",
+   "address": "1056 QUEEN ST E, TORONTO, ON, M4M 1K5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B71-5667543"
+  },
+  {
+   "name": "THE KORNER PUB & GRILL",
+   "address": "3045 KINGSTON RD, TORONTO, ON, M1M 1P1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B71-5678240"
+  },
+  {
+   "name": "HANAMARU MARKET & BENTO",
+   "address": "862 PAPE AVE, TORONTO, ON, M4K 3T8",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B71-5681951"
+  },
+  {
+   "name": "QING SHU HOT POT (DT)",
+   "address": "442 DUNDAS ST W, TORONTO, ON, M5T 1G7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B71-5682674"
+  },
+  {
+   "name": "ARVENTO PIZZA",
+   "address": "25 YORK ST, A5, TORONTO, ON, M5J 2V5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-28",
+   "licence_no": "B50-5683917"
+  },
+  {
    "name": "MOUSSA'S SHAWARMA AND GRILL",
    "address": "2389 FINCH AVE W, TORONTO, ON, M9M 2W5",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -225,6 +267,20 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-28",
    "licence_no": "B71-5682950"
+  },
+  {
+   "name": "MR.PUFFS YORK MILLS",
+   "address": "808 YORK MILLS RD, #9, TORONTO, ON, M3B 1X8",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-28",
+   "licence_no": "B71-5475041"
+  },
+  {
+   "name": "GREEN DRIP",
+   "address": "283 COLLEGE ST, TORONTO, ON, M5T 1S2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-28",
+   "licence_no": "B71-5683931"
   },
   {
    "name": "HARRINGTON'S CONVENIENCE",
@@ -253,6 +309,20 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-10-27",
    "licence_no": "B50-5678993"
+  },
+  {
+   "name": "LITTLE CAESARS",
+   "address": "2065 LAWRENCE AVE E, TORONTO, ON, M1R 2Z4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B50-5682947"
+  },
+  {
+   "name": "YUAN YUAN RESTAURANT",
+   "address": "8 GLEN WATFORD DR, F1 & F12, TORONTO, ON, M1S 2C1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-27",
+   "licence_no": "B50-5682949"
   },
   {
    "name": "PIZZA PIZZA STORE 40",
@@ -5993,20 +6063,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-01",
    "licence_no": "B71-5648122"
-  },
-  {
-   "name": "MEL'S BAKERY",
-   "address": "996 DOVERCOURT RD, TORONTO, ON, M6H 2X5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-30",
-   "licence_no": "B71-5631082"
-  },
-  {
-   "name": "CASA AGUILAR CA",
-   "address": "2496 KINGSTON RD, TORONTO, ON, M1N 1V3",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-06-30",
-   "licence_no": "B71-5648120"
   }
  ]
 }
