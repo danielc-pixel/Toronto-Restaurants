@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-29T11:27:59+00:00",
+ "generated_at": "2026-10-30T11:24:36+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 843,
+ "count": 845,
  "debug": {
-  "rows_scanned": 160117,
+  "rows_scanned": 160150,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,19 +42,19 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36698
+    36703
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26346
+    26351
    ],
    [
     "PUBLIC GARAGE",
-    11759
+    11761
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11185
+    11191
    ],
    [
     "TAXICAB OWNER",
@@ -62,7 +62,7 @@
    ],
    [
     "BUILDING RENOVATOR",
-    9061
+    9062
    ],
    [
     "NOISE EXEMPTION",
@@ -74,11 +74,11 @@
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4488
+    4489
    ],
    [
     "MASTER PLUMBER",
-    3282
+    3284
    ],
    [
     "DRIVING INSTRUCTOR (V)",
@@ -86,11 +86,11 @@
    ],
    [
     "SIDEWALK CAFE",
-    2489
+    2490
    ],
    [
     "PLUMBING CONTRACTOR",
-    2376
+    2377
    ],
    [
     "LIMOUSINE OWNER",
@@ -98,11 +98,11 @@
    ],
    [
     "LAUNDRY PREMISES",
-    2253
+    2254
    ],
    [
     "COMMERCIAL PARKING LOT",
-    2064
+    2066
    ],
    [
     "HOLISTIC CENTRE",
@@ -142,7 +142,7 @@
    ],
    [
     "TORONTO TAXICAB OWNER",
-    740
+    741
    ],
    [
     "CURB LANE CAFE",
@@ -206,6 +206,62 @@
    "licence_no": "B50-5682141"
   },
   {
+   "name": "INS MARKET 5557",
+   "address": "3063 DUFFERIN ST, #1, TORONTO, ON, M6A 0C3",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5678849"
+  },
+  {
+   "name": "LITTLE BEE",
+   "address": "140 CARLTON ST, STORE - F, TORONTO, ON, M5A 3W7",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5681970"
+  },
+  {
+   "name": "MIDORI RAMEN",
+   "address": "300 BOROUGH DR, FC13, TORONTO, ON, M1P 4P5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5682809"
+  },
+  {
+   "name": "D SPOT DESSERT CAFE",
+   "address": "1060-1064 THE QUEENSWAY, TORONTO, ON, M8Z 1P7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5679019"
+  },
+  {
+   "name": "HAPPY BURGER",
+   "address": "881 YONGE ST, #4, TORONTO, ON, M4W 2H2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5679962"
+  },
+  {
+   "name": "HAKKA WOK HEI",
+   "address": "371 RONCESVALLES AVE, TORONTO, ON, M6R 2M8",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5682178"
+  },
+  {
+   "name": "WILD CONVENIENCE & GROCERY",
+   "address": "6123 STEELES AVE W, TORONTO, ON, M9L 2V1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B50-5682357"
+  },
+  {
+   "name": "VIETNAM RESTAURANT",
+   "address": "243 SHEPPARD AVE E, TORONTO, ON, M2N 3A8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B50-5682776"
+  },
+  {
    "name": "MIZZICA GELATERIA & CAFE",
    "address": "1080 ST CLAIR AVE W, A&B, TORONTO, ON, M6E 1A7",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -246,6 +302,20 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-29",
    "licence_no": "B71-5682674"
+  },
+  {
+   "name": "LOEI THAI KITCHEN & BAR",
+   "address": "513 DANFORTH AVE, TORONTO, ON, M4K 1P5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B71-5684175"
+  },
+  {
+   "name": "LOUKOUMANIA CAFE",
+   "address": "1426 DANFORTH AVE, TORONTO, ON, M4J 1N4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-29",
+   "licence_no": "B71-5684179"
   },
   {
    "name": "ARVENTO PIZZA",
@@ -6007,62 +6077,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-02",
    "licence_no": "B71-5648663"
-  },
-  {
-   "name": "MAZEDAR ZAIQA",
-   "address": "16 MALLARD RD, A207, TORONTO, ON, M3B 0A7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B50-5647358"
-  },
-  {
-   "name": "ABABEEL HALAL MEAT AND VEGETABLE",
-   "address": "3040 DANFORTH AVE, #2&3, TORONTO, ON, M4C 1N2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B50-5647370"
-  },
-  {
-   "name": "INS MARKET 5645",
-   "address": "1417 DANFORTH AVE, TORONTO, ON, M4J 1N2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B50-5647390"
-  },
-  {
-   "name": "CONSTANTINE",
-   "address": "15 CHARLES ST E, TORONTO, ON, M4Y 1S1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B71-5647382"
-  },
-  {
-   "name": "EJI'S KITCHEN",
-   "address": "19 WOODBINE DOWNS BLVD, #103, TORONTO, ON, M9W 6N5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B71-5641492"
-  },
-  {
-   "name": "VINTAGE CONSERVATORY YORKVILLE",
-   "address": "87 AVENUE RD, #219, TORONTO, ON, M5R 3R9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B71-5647524"
-  },
-  {
-   "name": "SUSHI ON BLOOR",
-   "address": "525 BLOOR ST W, TORONTO, ON, M5S 1Y4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B71-5647545"
-  },
-  {
-   "name": "VU CAFE STUDIO",
-   "address": "844 DUNDAS ST W, TORONTO, ON, M6J 1V5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-01",
-   "licence_no": "B71-5648122"
   }
  ]
 }
