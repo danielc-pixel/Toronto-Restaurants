@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-30T11:24:36+00:00",
+ "generated_at": "2026-10-31T11:20:58+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 845,
+ "count": 859,
  "debug": {
-  "rows_scanned": 160150,
+  "rows_scanned": 160179,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,11 +42,11 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36703
+    36712
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26351
+    26354
    ],
    [
     "PUBLIC GARAGE",
@@ -54,7 +54,7 @@
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11191
+    11196
    ],
    [
     "TAXICAB OWNER",
@@ -62,7 +62,7 @@
    ],
    [
     "BUILDING RENOVATOR",
-    9062
+    9060
    ],
    [
     "NOISE EXEMPTION",
@@ -74,15 +74,15 @@
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4489
+    4494
    ],
    [
     "MASTER PLUMBER",
-    3284
+    3283
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3141
+    3143
    ],
    [
     "SIDEWALK CAFE",
@@ -126,7 +126,7 @@
    ],
    [
     "NON-MOTORIZED REFRESHMENT VEHICLE OWNER",
-    1071
+    1070
    ],
    [
     "HEATING CONTRACTOR",
@@ -134,7 +134,7 @@
    ],
    [
     "DRIVING SCHOOL OPERATOR (B)",
-    776
+    777
    ],
    [
     "MARKETING DISPLAY",
@@ -142,7 +142,7 @@
    ],
    [
     "TORONTO TAXICAB OWNER",
-    741
+    742
    ],
    [
     "CURB LANE CAFE",
@@ -154,7 +154,7 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    550
+    551
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
@@ -169,6 +169,13 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-12-04",
    "licence_no": "B50-5668444"
+  },
+  {
+   "name": "908 COFFEE & EATERY",
+   "address": "908 BLOOR ST W, TORONTO, ON, M6H 1L1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-12-01",
+   "licence_no": "B71-5683929"
   },
   {
    "name": "EDO JAPAN",
@@ -199,6 +206,62 @@
    "licence_no": "B71-5678989"
   },
   {
+   "name": "NASIM CARAVAN",
+   "address": "575 MARKHAM RD, TORONTO, ON, M1H 2A3",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B50-5675425"
+  },
+  {
+   "name": "IZMIR FINE FOODS",
+   "address": "2801 KEELE ST, #103, TORONTO, ON, M3M 2G6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B50-5679980"
+  },
+  {
+   "name": "SECOND CUP CAFE",
+   "address": "287-289 KING ST W, TORONTO, ON, M5V 1J5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B71-5675462"
+  },
+  {
+   "name": "ALI SHAWARMA",
+   "address": "901 KING ST W, #106B, TORONTO, ON, M5V 3H5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B71-5678603"
+  },
+  {
+   "name": "DOUGHBOX WOOD FIRED PIZZA & PASTA - REXDALE",
+   "address": "2200 ISLINGTON AVE, #4001, TORONTO, ON, M9W 3W5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B71-5682155"
+  },
+  {
+   "name": "BURGER CREW",
+   "address": "382 COLLEGE ST, TORONTO, ON, M5T 1S7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B71-5682814"
+  },
+  {
+   "name": "JAPAN SUSHI",
+   "address": "482 BLOOR ST W, TORONTO, ON, M5S 1X8",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B71-5683911"
+  },
+  {
+   "name": "FUSHI CO",
+   "address": "4186 FINCH AVE E, #7, TORONTO, ON, M1S 4T5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-31",
+   "licence_no": "B71-5684212"
+  },
+  {
    "name": "AAHARA MARKET",
    "address": "367 PITFIELD RD, TORONTO, ON, M1S 3E5",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -227,6 +290,34 @@
    "licence_no": "B50-5682809"
   },
   {
+   "name": "TIM HORTONS",
+   "address": "800 WARDEN AVE, TORONTO, ON, M1L 4T7",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5682770"
+  },
+  {
+   "name": "MINA FOOD MARKET",
+   "address": "1888 WESTON RD, TORONTO, ON, M9N 1W1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5681663"
+  },
+  {
+   "name": "CHOCOLAT DE KAT",
+   "address": "5 SCRIVENER SQ, F, TORONTO, ON, M4W 3X9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5682186"
+  },
+  {
+   "name": "ROYWOODS BAY STREET INC",
+   "address": "3 DUNDAS ST W, TORONTO, ON, M5G 1Z3",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B50-5681655"
+  },
+  {
    "name": "D SPOT DESSERT CAFE",
    "address": "1060-1064 THE QUEENSWAY, TORONTO, ON, M8Z 1P7",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -246,6 +337,41 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-10-30",
    "licence_no": "B71-5682178"
+  },
+  {
+   "name": "KIBO SUSHI HOUSE",
+   "address": "4002 SHEPPARD AVE E, #106, TORONTO, ON, M1S 4R5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5033295"
+  },
+  {
+   "name": "BIG CHICKEN",
+   "address": "150 SILVER REIGN DR, #5.2, TORONTO, ON, M9W 0G3",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5684203"
+  },
+  {
+   "name": "SUBWAY",
+   "address": "45 CARLTON ST, #7, TORONTO, ON, M5B 2H9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5684284"
+  },
+  {
+   "name": "TIM HORTONS",
+   "address": "700 UNIVERSITY AVE, HFC108U, TORONTO, ON, M5G 1Z5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5684286"
+  },
+  {
+   "name": "SPOTLIGHT RESTAURANT & BAR",
+   "address": "3547 ST CLAIR AVE E, TORONTO, ON, M1K 1L6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-10-30",
+   "licence_no": "B71-5684287"
   },
   {
    "name": "WILD CONVENIENCE & GROCERY",
@@ -6049,34 +6175,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-03",
    "licence_no": "B71-5647533"
-  },
-  {
-   "name": "INS MARKET 5605",
-   "address": "101 HUMBER COLLEGE BLVD, #2351-2351C, TORONTO, ON, M9V 1R8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-02",
-   "licence_no": "B50-5629759"
-  },
-  {
-   "name": "IMPACT KITCHEN KING",
-   "address": "55 AVENUE RD, TORONTO, ON, M5R 3L2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-02",
-   "licence_no": "B50-5648629"
-  },
-  {
-   "name": "BANH CUON TO THANH",
-   "address": "1772 ST CLAIR AVE W, TORONTO, ON, M6N 1J3",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-02",
-   "licence_no": "B71-5648655"
-  },
-  {
-   "name": "ONECUP",
-   "address": "821 A BLOOR ST W, TORONTO, ON, M6G 1M1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-02",
-   "licence_no": "B71-5648663"
   }
  ]
 }
