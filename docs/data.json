@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T11:20:58+00:00",
+ "generated_at": "2026-11-01T11:21:50+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 859,
+ "count": 851,
  "debug": {
   "rows_scanned": 160179,
   "fields": [
@@ -6119,62 +6119,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-04",
    "licence_no": "B71-5648637"
-  },
-  {
-   "name": "PATTY CAKES AND ICE CREAM",
-   "address": "2598 EGLINTON AVE E, #2602B, TORONTO, ON, M1K 2R9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B50-5648862"
-  },
-  {
-   "name": "BELLO ITALIAN SANDWICH CO",
-   "address": "486 FRONT ST W, WM58, TORONTO, ON, M5V 0V2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B50-5648883"
-  },
-  {
-   "name": "EVANA CAFE & LOUNGE",
-   "address": "334 DUNDAS ST W, TORONTO, ON, M5T 1G5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B71-5647943"
-  },
-  {
-   "name": "GIFT SHOP",
-   "address": "89 OSSINGTON AVE, TORONTO, ON, M6J 2Z2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B71-5648106"
-  },
-  {
-   "name": "CHERRY ON TOP GELATO & CAFE",
-   "address": "1134 DUNDAS ST W, TORONTO, ON, M6J 1X2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B71-5647988"
-  },
-  {
-   "name": "NAMOO CAFE",
-   "address": "23 DREWRY AVE, TORONTO, ON, M2M 1C9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B71-5475075"
-  },
-  {
-   "name": "ISHTA",
-   "address": "1348 KENNEDY RD, TORONTO, ON, M1P 2L7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B71-5648923"
-  },
-  {
-   "name": "DI DI-ALL DAY VIETNAMESE BREAKFAST",
-   "address": "3262 MIDLAND AVE, E109, TORONTO, ON, M1V 0C6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-03",
-   "licence_no": "B71-5647533"
   }
  ]
 }
