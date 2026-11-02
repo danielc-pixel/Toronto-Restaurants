@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T11:21:50+00:00",
+ "generated_at": "2026-11-02T11:39:45+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 851,
+ "count": 846,
  "debug": {
   "rows_scanned": 160179,
   "fields": [
@@ -6084,41 +6084,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-06",
    "licence_no": "B71-5649287"
-  },
-  {
-   "name": "DAVE'S DELI",
-   "address": "68 TYCOS DR, #9, TORONTO, ON, M6B 1V9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-04",
-   "licence_no": "B50-5642695"
-  },
-  {
-   "name": "KING'S MILK & GROCERY",
-   "address": "1265 KING ST W, TORONTO, ON, M6K 1G6",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-04",
-   "licence_no": "B50-5648114"
-  },
-  {
-   "name": "PEPPER HAKKA AND THAI CUISINE",
-   "address": "4750 YONGE ST, #144, TORONTO, ON, M2N 0J6",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-04",
-   "licence_no": "B50-5648659"
-  },
-  {
-   "name": "AFIYET SHAWARMA",
-   "address": "1880 EGLINTON AVE E, #69, TORONTO, ON, M1L 2L1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-04",
-   "licence_no": "B71-5647972"
-  },
-  {
-   "name": "CAFE DELICIA",
-   "address": "3341-3343 LAKE SHORE BLVD W, TORONTO, ON, M8W 1N1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-04",
-   "licence_no": "B71-5648637"
   }
  ]
 }
