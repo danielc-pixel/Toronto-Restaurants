@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-02T11:39:45+00:00",
+ "generated_at": "2026-11-03T11:39:05+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 846,
+ "count": 855,
  "debug": {
-  "rows_scanned": 160179,
+  "rows_scanned": 160175,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -46,7 +46,7 @@
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26354
+    26352
    ],
    [
     "PUBLIC GARAGE",
@@ -54,15 +54,15 @@
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11196
+    11197
    ],
    [
     "TAXICAB OWNER",
-    9354
+    9349
    ],
    [
     "BUILDING RENOVATOR",
-    9060
+    9057
    ],
    [
     "NOISE EXEMPTION",
@@ -70,11 +70,11 @@
    ],
    [
     "TOW TRUCK OWNER",
-    4833
+    4832
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4494
+    4497
    ],
    [
     "MASTER PLUMBER",
@@ -82,7 +82,7 @@
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3143
+    3142
    ],
    [
     "SIDEWALK CAFE",
@@ -94,11 +94,11 @@
    ],
    [
     "LIMOUSINE OWNER",
-    2341
+    2342
    ],
    [
     "LAUNDRY PREMISES",
-    2254
+    2255
    ],
    [
     "COMMERCIAL PARKING LOT",
@@ -110,11 +110,11 @@
    ],
    [
     "SECOND HAND SHOP",
-    1813
+    1815
    ],
    [
     "MASTER HEATING INSTALLER",
-    1429
+    1428
    ],
    [
     "MOTORIZED REFRESHMENT VEHICLE OWNER",
@@ -130,7 +130,7 @@
    ],
    [
     "HEATING CONTRACTOR",
-    803
+    804
    ],
    [
     "DRIVING SCHOOL OPERATOR (B)",
@@ -192,6 +192,62 @@
    "licence_no": "B71-5676306"
   },
   {
+   "name": "KIBO SECRET GARDEN",
+   "address": "108 COLLEGE ST, W165, TORONTO, ON, M5G 0C6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5681969"
+  },
+  {
+   "name": "JIM'S HOUSE",
+   "address": "652-656 FINCH AVE E, TORONTO, ON, M2K 2E6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5684205"
+  },
+  {
+   "name": "ROYWOODS UNION",
+   "address": "65 FRONT ST W, #479, TORONTO, ON, M5J 1E6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-02",
+   "licence_no": "B50-5682362"
+  },
+  {
+   "name": "PASSION PROFESSION KITCHEN",
+   "address": "31 TAPSCOTT RD, #9, TORONTO, ON, M1B 4Y7",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-02",
+   "licence_no": "B50-5684423"
+  },
+  {
+   "name": "THE POKE BOX - STC",
+   "address": "300 BOROUGH DR, LL-01, TORONTO, ON, M1P 4P5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-02",
+   "licence_no": "B50-5684446"
+  },
+  {
+   "name": "BAKE TIME",
+   "address": "1732 LAWRENCE AVE E, TORONTO, ON, M1R 2Y1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-02",
+   "licence_no": "B71-5684416"
+  },
+  {
+   "name": "KABSA MANDI & GRILL",
+   "address": "828 EASTERN AVE, A, TORONTO, ON, M4L 1A1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-02",
+   "licence_no": "B71-5684433"
+  },
+  {
+   "name": "DARVISH RESTAURANT",
+   "address": "639 YONGE ST, TORONTO, ON, M4Y 1Z9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-02",
+   "licence_no": "B71-5684441"
+  },
+  {
    "name": "PROBABLY NOTHING",
    "address": "50 BRANT ST, K26, TORONTO, ON, M5V 3G9",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -199,11 +255,32 @@
    "licence_no": "B50-5678249"
   },
   {
+   "name": "UNION CHICKEN",
+   "address": "50 BRANT ST, K19, TORONTO, ON, M5V 3G9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-01",
+   "licence_no": "B50-5669284"
+  },
+  {
+   "name": "FOODMANIA",
+   "address": "328 PASSMORE AVE, #3, TORONTO, ON, M1V 5J5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-01",
+   "licence_no": "B50-5671212"
+  },
+  {
    "name": "CONCORD ROOM",
    "address": "40 TEMPERANCE ST, #100, TORONTO, ON, M5H 0B4",
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-11-01",
    "licence_no": "B71-5678989"
+  },
+  {
+   "name": "HOLY CANNOLI TORONTO",
+   "address": "3469 LAKE SHORE BLVD W, TORONTO, ON, M8W 1N2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-01",
+   "licence_no": "B71-5678796"
   },
   {
    "name": "NASIM CARAVAN",
@@ -3370,13 +3447,6 @@
    "licence_no": "B71-5664034"
   },
   {
-   "name": "NEW KALYANI TAKE OUT & CATERING INC",
-   "address": "723 KENNEDY RD, TORONTO, ON, M1K 2C6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-09-02",
-   "licence_no": "B71-4540562"
-  },
-  {
    "name": "TAIMEI BRAISED & SKEWERS",
    "address": "5287 YONGE ST, TORONTO, ON, M2N 5R3",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -5391,13 +5461,6 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-07-21",
    "licence_no": "B50-5651728"
-  },
-  {
-   "name": "BETWEEN THE HOURS",
-   "address": "652-656 FINCH AVE E, TORONTO, ON, M2K 2E6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-21",
-   "licence_no": "B71-5652932"
   },
   {
    "name": "SHELBY'S LEGENDARY SHAWARMA",
