@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-03T11:39:05+00:00",
+ "generated_at": "2026-11-04T11:43:13+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 855,
+ "count": 862,
  "debug": {
-  "rows_scanned": 160175,
+  "rows_scanned": 160185,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,7 +42,7 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36712
+    36720
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -50,19 +50,19 @@
    ],
    [
     "PUBLIC GARAGE",
-    11761
+    11760
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11197
+    11200
    ],
    [
     "TAXICAB OWNER",
-    9349
+    9350
    ],
    [
     "BUILDING RENOVATOR",
-    9057
+    9059
    ],
    [
     "NOISE EXEMPTION",
@@ -70,7 +70,7 @@
    ],
    [
     "TOW TRUCK OWNER",
-    4832
+    4831
    ],
    [
     "TEMPORARY SIGN - MOBILE",
@@ -82,7 +82,7 @@
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3142
+    3141
    ],
    [
     "SIDEWALK CAFE",
@@ -98,7 +98,7 @@
    ],
    [
     "LAUNDRY PREMISES",
-    2255
+    2254
    ],
    [
     "COMMERCIAL PARKING LOT",
@@ -192,6 +192,34 @@
    "licence_no": "B71-5676306"
   },
   {
+   "name": "OISHIII SWEETS",
+   "address": "4271 SHEPPARD AVE E, #15, TORONTO, ON, M1S 4G4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-04",
+   "licence_no": "B71-5681955"
+  },
+  {
+   "name": "LEZZET12 SHAWARMA",
+   "address": "1807 EGLINTON AVE W, TORONTO, ON, M6E 2H7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-04",
+   "licence_no": "B71-5684519"
+  },
+  {
+   "name": "PGA CONVENIENCE STORE",
+   "address": "1375 DUPONT ST, #104, TORONTO, ON, M6H 4J8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B50-5684529"
+  },
+  {
+   "name": "RED BEAR BAO",
+   "address": "1571 SANDHURST CIR, #428, TORONTO, ON, M1V 1V2",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B50-5684206"
+  },
+  {
    "name": "KIBO SECRET GARDEN",
    "address": "108 COLLEGE ST, W165, TORONTO, ON, M5G 0C6",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -204,6 +232,55 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-11-03",
    "licence_no": "B71-5684205"
+  },
+  {
+   "name": "KALYUG SCARBOROUGH INDIAN & HAKKA COCKTAIL BAR",
+   "address": "820 MARKHAM RD, #3, TORONTO, ON, M1H 2Y2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5684520"
+  },
+  {
+   "name": "ORUMA MULTI CUISINE BISTRO",
+   "address": "80 ELLESMERE RD, #5-6, TORONTO, ON, M1R 4C2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5682792"
+  },
+  {
+   "name": "KNIFE CUT NOODLE",
+   "address": "4186 FINCH AVE E, #25, TORONTO, ON, M1S 4T5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5684531"
+  },
+  {
+   "name": "CHIANG RAI KITCHEN & BAR SCARBOROUGH",
+   "address": "43 MILNER AVE, D1, TORONTO, ON, M1S 3P6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5684535"
+  },
+  {
+   "name": "QWELLI THE ART OF GELATO",
+   "address": "25 THE WEST MALL, #1192A, TORONTO, ON, M9C 1B8",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5684537"
+  },
+  {
+   "name": "HOP IN KITCHEN + BAR",
+   "address": "97 DANFORTH AVE, TORONTO, ON, M4K 1N2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5684556"
+  },
+  {
+   "name": "SOUTH STREET BURGER",
+   "address": "12 RICHARDSON ST, #3, TORONTO, ON, M5A 4J9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-03",
+   "licence_no": "B71-5684532"
   },
   {
    "name": "ROYWOODS UNION",
@@ -6119,34 +6196,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-07",
    "licence_no": "B71-5649284"
-  },
-  {
-   "name": "EASY GO",
-   "address": "288 COLLEGE ST, TORONTO, ON, M5T 1R9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-06",
-   "licence_no": "B50-5647532"
-  },
-  {
-   "name": "ESTHER'S SOUP KITCHEN",
-   "address": "444 YONGE ST, F18, TORONTO, ON, M5B 2H4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-06",
-   "licence_no": "B50-5648101"
-  },
-  {
-   "name": "ROSES BURGER LAND",
-   "address": "6313 YONGE ST, TORONTO, ON, M2M 3X7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-06",
-   "licence_no": "B71-5649278"
-  },
-  {
-   "name": "GOOD EARTH COFFEEHOUSE",
-   "address": "8 WELLESLEY ST E, #104, TORONTO, ON, M4Y 3B2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-06",
-   "licence_no": "B71-5649287"
   }
  ]
 }
