@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-06T11:41:00+00:00",
+ "generated_at": "2026-11-07T11:23:23+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 875,
+ "count": 881,
  "debug": {
-  "rows_scanned": 160218,
+  "rows_scanned": 160235,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,19 +42,19 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36724
+    36722
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26364
+    26371
    ],
    [
     "PUBLIC GARAGE",
-    11766
+    11767
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11205
+    11209
    ],
    [
     "TAXICAB OWNER",
@@ -74,7 +74,7 @@
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4499
+    4500
    ],
    [
     "MASTER PLUMBER",
@@ -82,11 +82,11 @@
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3142
+    3144
    ],
    [
     "SIDEWALK CAFE",
-    2491
+    2492
    ],
    [
     "PLUMBING CONTRACTOR",
@@ -94,7 +94,7 @@
    ],
    [
     "LIMOUSINE OWNER",
-    2344
+    2346
    ],
    [
     "LAUNDRY PREMISES",
@@ -134,7 +134,7 @@
    ],
    [
     "DRIVING SCHOOL OPERATOR (B)",
-    777
+    776
    ],
    [
     "MARKETING DISPLAY",
@@ -199,6 +199,27 @@
    "licence_no": "B71-5676306"
   },
   {
+   "name": "AMHERST PHARMACY",
+   "address": "3485 KINGSTON RD, TORONTO, ON, M1M 1R4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-07",
+   "licence_no": "B50-5678801"
+  },
+  {
+   "name": "GET'N GO CONVENIENCE",
+   "address": "3871 LAWRENCE AVE E, TORONTO, ON, M1G 1R2",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-07",
+   "licence_no": "B50-5684629"
+  },
+  {
+   "name": "PIZZA PIZZA",
+   "address": "742 THE QUEENSWAY, TORONTO, ON, M8Y 1L5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-07",
+   "licence_no": "B71-5684607"
+  },
+  {
    "name": "QUEEN LIZ",
    "address": "545 KEELE ST, K104, TORONTO, ON, M6N 3E4",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -211,6 +232,48 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-11-06",
    "licence_no": "B50-5684271"
+  },
+  {
+   "name": "DOUBLE DOUBLE CONVENIENCE",
+   "address": "927 BLOOR ST W, TORONTO, ON, M6H 1L5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B50-5685740"
+  },
+  {
+   "name": "THE DAILY DUMPLING WONTON CO",
+   "address": "181 BAY ST, #150C, TORONTO, ON, M5J 2T3",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B50-5684448"
+  },
+  {
+   "name": "DE ARTS",
+   "address": "300 COXWELL AVE, #101, TORONTO, ON, M4L 3B6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B50-5684525"
+  },
+  {
+   "name": "CAFE ON THE GO",
+   "address": "1240 ISLINGTON AVE, TORONTO, ON, M8X 1Y8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B50-5685766"
+  },
+  {
+   "name": "AGRARIAN KITCHEN",
+   "address": "20 LOGAN AVE, #26A, TORONTO, ON, M4M 2M8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B50-5685768"
+  },
+  {
+   "name": "SAFFRON HALAL MEAT & GROCERY",
+   "address": "2640 DANFORTH AVE, TORONTO, ON, M4C 1L7",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B50-5685769"
   },
   {
    "name": "COMPASS GROUP CANADA LTD",
@@ -246,6 +309,34 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-11-06",
    "licence_no": "B71-5685653"
+  },
+  {
+   "name": "SANGRIA LOUNGE",
+   "address": "145 RONCESVALLES AVE, TORONTO, ON, M6R 2L2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B71-5684559"
+  },
+  {
+   "name": "BURRITO BOYZ",
+   "address": "3267-3269 DUFFERIN ST, TORONTO, ON, M6A 2T4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B71-5682932"
+  },
+  {
+   "name": "JEYAM KITCHEN",
+   "address": "1519 BIRCHMOUNT RD, TORONTO, ON, M1P 2H2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B71-5685777"
+  },
+  {
+   "name": "THE HENDERSON",
+   "address": "128A STERLING RD, TORONTO, ON, M6R 2B7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-06",
+   "licence_no": "B71-5685751"
   },
   {
    "name": "PALA THE WELL",
@@ -6238,55 +6329,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-10",
    "licence_no": "B71-5651212"
-  },
-  {
-   "name": "DAVID'S CONVENIENT NEIGHBORHOOD STORE",
-   "address": "1038 ST CLAIR AVE W, TORONTO, ON, M6E 1A5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-09",
-   "licence_no": "B50-5647387"
-  },
-  {
-   "name": "KEELE-INGRAM PHARMACY",
-   "address": "2221 KEELE ST, #101, TORONTO, ON, M6M 3Z5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-09",
-   "licence_no": "B50-5647507"
-  },
-  {
-   "name": "THE WINE THIEF",
-   "address": "840 BLOOR ST W, TORONTO, ON, M6G 1M2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-09",
-   "licence_no": "B71-5648660"
-  },
-  {
-   "name": "BARBURRITO",
-   "address": "25 WOODBINE DOWNS BLVD, #11, TORONTO, ON, M9W 6N5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-09",
-   "licence_no": "B71-5650936"
-  },
-  {
-   "name": "SIMI'S KITCHEN",
-   "address": "4379 KINGSTON RD, #1, TORONTO, ON, M1E 2M9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-09",
-   "licence_no": "B71-5650940"
-  },
-  {
-   "name": "SHREE GATHIYA HOUSE",
-   "address": "23 WESTMORE DR, #7B, TORONTO, ON, M9V 3Y7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-09",
-   "licence_no": "B71-5650957"
-  },
-  {
-   "name": "THE BULL PIT BAR & GRILL",
-   "address": "122 ATLANTIC AVE, TORONTO, ON, M6K 1X9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-09",
-   "licence_no": "B71-5650959"
   }
  ]
 }
