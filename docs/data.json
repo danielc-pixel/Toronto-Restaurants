@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T11:23:23+00:00",
+ "generated_at": "2026-11-08T11:23:46+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 881,
+ "count": 873,
  "debug": {
   "rows_scanned": 160235,
   "fields": [
@@ -6273,62 +6273,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-11",
    "licence_no": "B71-5648626"
-  },
-  {
-   "name": "GRILL IT UP!",
-   "address": "6464 YONGE ST, #115, TORONTO, ON, M2M 3X4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B50-5647834"
-  },
-  {
-   "name": "RK MART",
-   "address": "120 LOMBARD ST, #3, TORONTO, ON, M5C 3H5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B50-5650935"
-  },
-  {
-   "name": "BUTTER CHICKEN ROTI",
-   "address": "1800 SHEPPARD AVE E, F017, TORONTO, ON, M2J 5A7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B50-5651201"
-  },
-  {
-   "name": "VITHTHAHAN CONVENIENCE STORE",
-   "address": "4820 SHEPPARD AVE E, #25, TORONTO, ON, M1S 5M8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B50-5651222"
-  },
-  {
-   "name": "PIZZA PIZZA",
-   "address": "2795 DANFORTH AVE, TORONTO, ON, M4C 1M2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B71-5638922"
-  },
-  {
-   "name": "CJ 2026",
-   "address": "246 QUEEN ST W, TORONTO, ON, M5V 1Z7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B71-5648121"
-  },
-  {
-   "name": "THE FAMOUS INDIAN CUISINE",
-   "address": "1411 GERRARD ST E, TORONTO, ON, M4L 1Z5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B71-5651200"
-  },
-  {
-   "name": "PILATTES",
-   "address": "1610 GERRARD ST E, TORONTO, ON, M4L 2A5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-10",
-   "licence_no": "B71-5651212"
   }
  ]
 }
