@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T11:23:46+00:00",
+ "generated_at": "2026-11-09T11:43:07+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 873,
+ "count": 871,
  "debug": {
   "rows_scanned": 160235,
   "fields": [
@@ -6259,20 +6259,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-13",
    "licence_no": "B71-5651554"
-  },
-  {
-   "name": "NEWERA BURGERS",
-   "address": "1001 QUEEN ST E, TORONTO, ON, M4M 1K2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-11",
-   "licence_no": "B50-5647941"
-  },
-  {
-   "name": "VERITAS WINE BAR & CAF\u00c9",
-   "address": "1879 GERRARD ST E, TORONTO, ON, M4L 2B8",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-11",
-   "licence_no": "B71-5648626"
   }
  ]
 }
