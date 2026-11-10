@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-09T11:43:07+00:00",
+ "generated_at": "2026-11-10T11:40:17+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 871,
+ "count": 884,
  "debug": {
-  "rows_scanned": 160235,
+  "rows_scanned": 160233,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,15 +42,15 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36722
+    36725
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26371
+    26369
    ],
    [
     "PUBLIC GARAGE",
-    11767
+    11768
    ],
    [
     "PERSONAL SERVICES SETTINGS",
@@ -58,11 +58,11 @@
    ],
    [
     "TAXICAB OWNER",
-    9346
+    9344
    ],
    [
     "BUILDING RENOVATOR",
-    9059
+    9057
    ],
    [
     "NOISE EXEMPTION",
@@ -90,7 +90,7 @@
    ],
    [
     "PLUMBING CONTRACTOR",
-    2376
+    2377
    ],
    [
     "LIMOUSINE OWNER",
@@ -154,7 +154,7 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    552
+    553
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
@@ -192,11 +192,102 @@
    "licence_no": "B50-5681684"
   },
   {
+   "name": "POKERRITO",
+   "address": "145 KING ST W, #6-7, TORONTO, ON, M5H 1J8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-10",
+   "licence_no": "B50-5682929"
+  },
+  {
+   "name": "CASAMIENTO",
+   "address": "787 DUPONT ST, TORONTO, ON, M6G 1Z5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-10",
+   "licence_no": "B71-5684528"
+  },
+  {
+   "name": "NAIJA EATERY",
+   "address": "1530 ALBION RD, FC6, TORONTO, ON, M9V 1B4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B50-5685647"
+  },
+  {
+   "name": "EL GREEKO",
+   "address": "1530 ALBION RD, FC5, TORONTO, ON, M9V 1B4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B50-5686178"
+  },
+  {
+   "name": "HARRY'S CHARBROILED",
+   "address": "497 RICHMOND ST W, K25, TORONTO, ON, M5V 1Y3",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B50-5686198"
+  },
+  {
+   "name": "BITE IT GOURMET SANDWICH",
+   "address": "75 INTERNATIONAL BLVD, #100 WA, TORONTO, ON, M9W 6L9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B71-5686067"
+  },
+  {
+   "name": "PLUS 84 CAFE",
+   "address": "954 COLLEGE ST, TORONTO, ON, M6H 1A5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B71-5685770"
+  },
+  {
+   "name": "DOMINO'S PIZZA",
+   "address": "67 RICHMOND ST E, TORONTO, ON, M5C 1N9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B71-5686196"
+  },
+  {
+   "name": "DOMINO'S PIZZA",
+   "address": "1272 YONGE ST, TORONTO, ON, M4T 1W5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B71-5686197"
+  },
+  {
+   "name": "PIZZA PIZZA",
+   "address": "1300 FINCH AVE W, #38, TORONTO, ON, M3J 3K2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B71-5686200"
+  },
+  {
+   "name": "BISMILLAH PIZZA",
+   "address": "80 ELLESMERE RD, #8, TORONTO, ON, M1R 4C2",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-09",
+   "licence_no": "B71-5686203"
+  },
+  {
+   "name": "CIRCLE K # 66038",
+   "address": "106 HUMBER COLLEGE BLVD, #9, TORONTO, ON, M9V 4E4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-08",
+   "licence_no": "B50-5683948"
+  },
+  {
    "name": "A&W",
    "address": "8 MERCER ST, G11, TORONTO, ON, M5V 0C4",
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-11-08",
    "licence_no": "B71-5676306"
+  },
+  {
+   "name": "NOONMOON",
+   "address": "501 ALLIANCE AVE, #110, TORONTO, ON, M6N 2J1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-08",
+   "licence_no": "B71-5684420"
   },
   {
    "name": "AMHERST PHARMACY",
