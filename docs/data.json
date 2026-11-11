@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-10T11:40:17+00:00",
+ "generated_at": "2026-11-11T11:43:30+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 884,
+ "count": 885,
  "debug": {
-  "rows_scanned": 160233,
+  "rows_scanned": 160242,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,23 +42,23 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36725
+    36724
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26369
+    26373
    ],
    [
     "PUBLIC GARAGE",
-    11768
+    11766
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11209
+    11212
    ],
    [
     "TAXICAB OWNER",
-    9344
+    9346
    ],
    [
     "BUILDING RENOVATOR",
@@ -78,11 +78,11 @@
    ],
    [
     "MASTER PLUMBER",
-    3284
+    3285
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3144
+    3143
    ],
    [
     "SIDEWALK CAFE",
@@ -94,7 +94,7 @@
    ],
    [
     "LIMOUSINE OWNER",
-    2346
+    2347
    ],
    [
     "LAUNDRY PREMISES",
@@ -110,7 +110,7 @@
    ],
    [
     "SECOND HAND SHOP",
-    1813
+    1814
    ],
    [
     "MASTER HEATING INSTALLER",
@@ -192,6 +192,20 @@
    "licence_no": "B50-5681684"
   },
   {
+   "name": "DIAMOND CONVENIENCE STORE",
+   "address": "4246 SHEPPARD AVE E, #102C, TORONTO, ON, M1S 1T5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-11",
+   "licence_no": "B50-5681964"
+  },
+  {
+   "name": "ALBORZ PERSIAN GRILL",
+   "address": "761 DUNDAS ST W, TORONTO, ON, M6J 1T9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-11",
+   "licence_no": "B50-5686068"
+  },
+  {
    "name": "POKERRITO",
    "address": "145 KING ST W, #6-7, TORONTO, ON, M5H 1J8",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -199,11 +213,32 @@
    "licence_no": "B50-5682929"
   },
   {
+   "name": "BLONDIES PIZZA BAY STREET",
+   "address": "598 BAY ST, TORONTO, ON, M5G 1M5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-10",
+   "licence_no": "B50-5684657"
+  },
+  {
+   "name": "HASTY MARKET",
+   "address": "1386 BAYVIEW AVE, #2, TORONTO, ON, M4G 3A1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-10",
+   "licence_no": "B50-5682810"
+  },
+  {
    "name": "CASAMIENTO",
    "address": "787 DUPONT ST, TORONTO, ON, M6G 1Z5",
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-11-10",
    "licence_no": "B71-5684528"
+  },
+  {
+   "name": "MCDONALD'S",
+   "address": "700 KING ST W, TORONTO, ON, M5V 2Y6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-10",
+   "licence_no": "B71-5686369"
   },
   {
    "name": "NAIJA EATERY",
@@ -6322,34 +6357,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-14",
    "licence_no": "B71-5651741"
-  },
-  {
-   "name": "LETTERBOX DOUGHNUTS",
-   "address": "1590 QUEEN ST W, TORONTO, ON, M6R 1A8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-13",
-   "licence_no": "B50-5647964"
-  },
-  {
-   "name": "SENECA COLLEGE OF APPLIED ARTS AND TECHNOLOGY",
-   "address": "1760 FINCH AVE E, TORONTO, ON, M2J 5G3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-13",
-   "licence_no": "B50-5649268"
-  },
-  {
-   "name": "CROSSTOWN CRAFT BBQ",
-   "address": "51 COMSTOCK RD, BLDG A, TORONTO, ON, M1L 2G6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-13",
-   "licence_no": "B71-5650938"
-  },
-  {
-   "name": "FREDDY'S GREEK RESTAURANT",
-   "address": "148 SUMACH ST, TORONTO, ON, M5A 0P9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-13",
-   "licence_no": "B71-5651554"
   }
  ]
 }
