@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T11:43:30+00:00",
+ "generated_at": "2026-11-12T11:45:07+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 885,
+ "count": 880,
  "debug": {
   "rows_scanned": 160242,
   "fields": [
@@ -6322,41 +6322,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-15",
    "licence_no": "B71-5652144"
-  },
-  {
-   "name": "PIZZA DEPOT",
-   "address": "2013 LAWRENCE AVE W, A4, TORONTO, ON, M9N 0A3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-14",
-   "licence_no": "B50-5643756"
-  },
-  {
-   "name": "M2GO - YORK U",
-   "address": "105 THE POND RD, #10, TORONTO, ON, M3J 0K9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-14",
-   "licence_no": "B50-5648869"
-  },
-  {
-   "name": "KITCHEN HUB",
-   "address": "55 AVENUE RD, F6/F6A/F8, TORONTO, ON, M5R 3L2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-14",
-   "licence_no": "B50-5649275"
-  },
-  {
-   "name": "EXPLORE TEA TORONTO",
-   "address": "5373 YONGE ST, TORONTO, ON, M2N 5R6",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-14",
-   "licence_no": "B50-5651745"
-  },
-  {
-   "name": "SUBWAY",
-   "address": "932 YONGE ST, TORONTO, ON, M4W 2J2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-14",
-   "licence_no": "B71-5651741"
   }
  ]
 }
