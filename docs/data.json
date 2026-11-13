@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-12T11:45:07+00:00",
+ "generated_at": "2026-11-13T11:42:57+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 880,
+ "count": 868,
  "debug": {
-  "rows_scanned": 160242,
+  "rows_scanned": 160238,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,19 +42,19 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36724
+    36720
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26373
+    26372
    ],
    [
     "PUBLIC GARAGE",
-    11766
+    11760
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11212
+    11213
    ],
    [
     "TAXICAB OWNER",
@@ -62,7 +62,7 @@
    ],
    [
     "BUILDING RENOVATOR",
-    9057
+    9058
    ],
    [
     "NOISE EXEMPTION",
@@ -70,31 +70,31 @@
    ],
    [
     "TOW TRUCK OWNER",
-    4831
+    4829
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4500
+    4503
    ],
    [
     "MASTER PLUMBER",
-    3285
+    3286
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3143
+    3142
    ],
    [
     "SIDEWALK CAFE",
-    2492
+    2494
    ],
    [
     "PLUMBING CONTRACTOR",
-    2377
+    2378
    ],
    [
     "LIMOUSINE OWNER",
-    2347
+    2348
    ],
    [
     "LAUNDRY PREMISES",
@@ -102,7 +102,7 @@
    ],
    [
     "COMMERCIAL PARKING LOT",
-    2066
+    2065
    ],
    [
     "HOLISTIC CENTRE",
@@ -190,6 +190,41 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-11-17",
    "licence_no": "B50-5681684"
+  },
+  {
+   "name": "AL'S MEAT MARKET",
+   "address": "272 EGLINTON AVE W, TORONTO, ON, M4R 1B2",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-12",
+   "licence_no": "B50-5684542"
+  },
+  {
+   "name": "USMANI FOODS",
+   "address": "2393 ST CLAIR AVE W, #1, TORONTO, ON, M6N 1K9",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-12",
+   "licence_no": "B50-5687238"
+  },
+  {
+   "name": "BAGELS ON FIRE CAFE",
+   "address": "600 UNIVERSITY AVE, #4, TORONTO, ON, M5G 1X5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-12",
+   "licence_no": "B50-5687359"
+  },
+  {
+   "name": "A1 CONVENIENCE",
+   "address": "3785 KINGSTON RD, B5, TORONTO, ON, M1J 3M4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-12",
+   "licence_no": "B50-5684630"
+  },
+  {
+   "name": "MONKEY SUSHI SCARBOROUGH TOWN",
+   "address": "60 BRIAN HARRISON WAY, #102, TORONTO, ON, M1P 5J5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-12",
+   "licence_no": "B71-5687350"
   },
   {
    "name": "DIAMOND CONVENIENCE STORE",
@@ -3727,13 +3762,6 @@
    "licence_no": "B50-5664841"
   },
   {
-   "name": "BRAZIL PIZZA HOUSE",
-   "address": "2393 ST CLAIR AVE W, #1, TORONTO, ON, M6N 1K9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-09-04",
-   "licence_no": "B50-5664858"
-  },
-  {
    "name": "WOK BOYZ",
    "address": "229 CHURCH ST, #3, TORONTO, ON, M5B 1Y7",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -6210,118 +6238,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-16",
    "licence_no": "B71-5652304"
-  },
-  {
-   "name": "UNIVERSAL GROCERY CONVENIENCE STORE",
-   "address": "1818 WESTON RD, TORONTO, ON, M9N 1V8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B50-5648674"
-  },
-  {
-   "name": "THANJAI CHOLA SOUTH INDIAN RESTAURANT",
-   "address": "1700 WILSON AVE, #83F, TORONTO, ON, M3L 1B2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B50-5643603"
-  },
-  {
-   "name": "SWEATY CHILLI",
-   "address": "63 SILVER STAR BLVD, A7, TORONTO, ON, M1V 5E5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B50-5647500"
-  },
-  {
-   "name": "SUFI'S DESSERTS",
-   "address": "335 YONGE ST, TORONTO, ON, M5B 1R7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B50-5650947"
-  },
-  {
-   "name": "ARTHUR'S SNACKETTE",
-   "address": "684 ST CLAIR AVE W, REAR, TORONTO, ON, M6C 1B1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B50-5651198"
-  },
-  {
-   "name": "SCOOPS UNLIMITED CANADA",
-   "address": "654 QUEEN ST W, TORONTO, ON, M6J 1E5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B50-5651643"
-  },
-  {
-   "name": "TASTY KOREA",
-   "address": "3323 LAKE SHORE BLVD W, TORONTO, ON, M8W 1M8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B50-5651764"
-  },
-  {
-   "name": "DAVE'S HOT CHICKEN",
-   "address": "2066 YONGE ST, TORONTO, ON, M4S 2A3",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5645025"
-  },
-  {
-   "name": "LA LUNA RESTAURANTE",
-   "address": "2290 KEELE ST, TORONTO, ON, M6M 3Z8",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5648864"
-  },
-  {
-   "name": "WOK BOYZ",
-   "address": "882 THE QUEENSWAY, #4, TORONTO, ON, M8Z 1P1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5648889"
-  },
-  {
-   "name": "DAIRY QUEEN",
-   "address": "2882 KINGSTON RD, TORONTO, ON, M1M 1N4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5649204"
-  },
-  {
-   "name": "KALYVIA - A TASTE OF OUR VILLAGE",
-   "address": "420 DANFORTH AVE, TORONTO, ON, M4K 1P3",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5651623"
-  },
-  {
-   "name": "OSMOW'S SHAWARMA",
-   "address": "884 THE QUEENSWAY, #3, TORONTO, ON, M8Z 1P1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5652125"
-  },
-  {
-   "name": "LAN CHENG XIANG",
-   "address": "382 SPADINA AVE, TORONTO, ON, M5T 2G5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5652099"
-  },
-  {
-   "name": "CAFE JUVENTUS",
-   "address": "904 BLOOR ST W, TORONTO, ON, M6H 1L1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5652132"
-  },
-  {
-   "name": "ALJOOD MIDDLE EASTERN CUISINE",
-   "address": "1430 QUEEN ST W, TORONTO, ON, M6K 1L9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-15",
-   "licence_no": "B71-5652144"
   }
  ]
 }
