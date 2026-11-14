@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-13T11:42:57+00:00",
+ "generated_at": "2026-11-14T11:24:37+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 868,
+ "count": 866,
  "debug": {
-  "rows_scanned": 160238,
+  "rows_scanned": 160248,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,23 +42,23 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36720
+    36724
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26372
+    26370
    ],
    [
     "PUBLIC GARAGE",
-    11760
+    11758
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11213
+    11219
    ],
    [
     "TAXICAB OWNER",
-    9346
+    9347
    ],
    [
     "BUILDING RENOVATOR",
@@ -74,7 +74,7 @@
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4503
+    4509
    ],
    [
     "MASTER PLUMBER",
@@ -82,7 +82,7 @@
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3142
+    3143
    ],
    [
     "SIDEWALK CAFE",
@@ -98,7 +98,7 @@
    ],
    [
     "LAUNDRY PREMISES",
-    2254
+    2253
    ],
    [
     "COMMERCIAL PARKING LOT",
@@ -114,11 +114,11 @@
    ],
    [
     "MASTER HEATING INSTALLER",
-    1428
+    1427
    ],
    [
     "MOTORIZED REFRESHMENT VEHICLE OWNER",
-    1367
+    1366
    ],
    [
     "CLOTHING DROP BOX LOCATION PERMIT",
@@ -130,7 +130,7 @@
    ],
    [
     "HEATING CONTRACTOR",
-    804
+    803
    ],
    [
     "DRIVING SCHOOL OPERATOR (B)",
@@ -154,11 +154,11 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    553
+    554
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
-    532
+    531
    ]
   ]
  },
@@ -190,6 +190,69 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-11-17",
    "licence_no": "B50-5681684"
+  },
+  {
+   "name": "NAWAB EXPRESS ON AVENUE",
+   "address": "1753 AVENUE RD, TORONTO, ON, M5M 3Y8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-14",
+   "licence_no": "B50-5687564"
+  },
+  {
+   "name": "PITA AND HUMMUS",
+   "address": "537 ST CLAIR AVE W, TORONTO, ON, M6C 1A3",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-14",
+   "licence_no": "B71-5676624"
+  },
+  {
+   "name": "LAL CHAND BAKERY & CAFE LTD",
+   "address": "2864 LAKE SHORE BLVD W, TORONTO, ON, M8V 1H9",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-14",
+   "licence_no": "B71-5685741"
+  },
+  {
+   "name": "BREEZY CONVENIENCE STORE",
+   "address": "3791 BATHURST ST, A, TORONTO, ON, M3H 3N1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-13",
+   "licence_no": "B50-5686180"
+  },
+  {
+   "name": "CASA LUNA TACOS",
+   "address": "218 AUGUSTA AVE, TORONTO, ON, M5T 2L6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-13",
+   "licence_no": "B50-5687535"
+  },
+  {
+   "name": "6IX PICKLE",
+   "address": "102 BERKELEY ST, TORONTO, ON, M5A 2W6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-13",
+   "licence_no": "B71-5687385"
+  },
+  {
+   "name": "CUERVO Y MARQUIS BAKERY CAFE",
+   "address": "132 OSSINGTON AVE, TORONTO, ON, M6J 2Z5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-13",
+   "licence_no": "B71-5372331"
+  },
+  {
+   "name": "ROYAL MALABAR INDIAN CUISINE",
+   "address": "1601 BIRCHMOUNT RD, #1&2, TORONTO, ON, M1P 2H5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-13",
+   "licence_no": "B71-5687550"
+  },
+  {
+   "name": "THE BOTHY COFFEE",
+   "address": "2241 QUEEN ST E, TORONTO, ON, M4E 1G1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-13",
+   "licence_no": "B71-5686387"
   },
   {
    "name": "AL'S MEAT MARKET",
@@ -6161,83 +6224,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-17",
    "licence_no": "B71-5652098"
-  },
-  {
-   "name": "CASPIAN BAKERY AND SUPERMARKET",
-   "address": "2052 SHEPPARD AVE E, TORONTO, ON, M2J 5B3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B50-5647505"
-  },
-  {
-   "name": "BULAKENYOS RESTAURANT",
-   "address": "2901 MARKHAM RD, #5, TORONTO, ON, M1X 0B6",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B50-5648861"
-  },
-  {
-   "name": "T & T SUPERMARKET",
-   "address": "5095 YONGE ST, #3, TORONTO, ON, M2N 6Z4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B50-5650805"
-  },
-  {
-   "name": "ORIBAKO",
-   "address": "883 EGLINTON AVE W, TORONTO, ON, M6C 2C1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B50-5650962"
-  },
-  {
-   "name": "LAURIE FLEMING JEWELLERY",
-   "address": "919 QUEEN ST W, TORONTO, ON, M6J 1G5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B50-5651196"
-  },
-  {
-   "name": "SUBWAY",
-   "address": "1265 MILITARY TRAIL, B, TORONTO, ON, M1C 1A4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B50-5652297"
-  },
-  {
-   "name": "ALEXANDRA PARK MARKET",
-   "address": "602 DUNDAS ST W, TORONTO, ON, M5T 1H7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B50-5651653"
-  },
-  {
-   "name": "CHENGDU SPICY",
-   "address": "3250 MIDLAND AVE, G123-G125, TORONTO, ON, M1V 0C4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B71-5652128"
-  },
-  {
-   "name": "YUMMY SLICE PIZZA",
-   "address": "60 ST CLAIR AVE E, #100, TORONTO, ON, M4T 1N5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B71-5652149"
-  },
-  {
-   "name": "BUNNER'S",
-   "address": "71 SUNRISE AVE, TORONTO, ON, M4A 1A9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B71-5652290"
-  },
-  {
-   "name": "PANZOPANZO",
-   "address": "635 MARKHAM ST, TORONTO, ON, M6G 2M1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-16",
-   "licence_no": "B71-5652304"
   }
  ]
 }
