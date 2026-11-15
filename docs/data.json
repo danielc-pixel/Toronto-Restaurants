@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T11:24:37+00:00",
+ "generated_at": "2026-11-15T11:26:22+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 866,
+ "count": 865,
  "debug": {
   "rows_scanned": 160248,
   "fields": [
@@ -6217,13 +6217,6 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-07-18",
    "licence_no": "B50-5645325"
-  },
-  {
-   "name": "SIEMPRE BREAKFAST & LUNCH RESTAURANT",
-   "address": "330 FRONT ST W, #105, TORONTO, ON, M5V 3B7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-17",
-   "licence_no": "B71-5652098"
   }
  ]
 }
