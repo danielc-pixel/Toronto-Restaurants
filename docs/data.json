@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T11:26:22+00:00",
+ "generated_at": "2026-11-16T11:54:26+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 865,
+ "count": 864,
  "debug": {
   "rows_scanned": 160248,
   "fields": [
@@ -6210,13 +6210,6 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-07-19",
    "licence_no": "B50-5648672"
-  },
-  {
-   "name": "OKAISHIE SUPERMARKET",
-   "address": "823 ALBION RD, TORONTO, ON, M9V 1A3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-18",
-   "licence_no": "B50-5645325"
   }
  ]
 }
