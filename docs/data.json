@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-17T11:38:05+00:00",
+ "generated_at": "2026-11-18T11:47:58+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 871,
+ "count": 864,
  "debug": {
-  "rows_scanned": 160240,
+  "rows_scanned": 160251,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -42,23 +42,23 @@
   "top_categories": [
    [
     "EATING OR DRINKING ESTABLISHMENT",
-    36716
+    36713
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26370
+    26372
    ],
    [
     "PUBLIC GARAGE",
-    11755
+    11757
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11227
+    11232
    ],
    [
     "TAXICAB OWNER",
-    9346
+    9348
    ],
    [
     "BUILDING RENOVATOR",
@@ -70,11 +70,11 @@
    ],
    [
     "TOW TRUCK OWNER",
-    4828
+    4827
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4514
+    4515
    ],
    [
     "MASTER PLUMBER",
@@ -82,7 +82,7 @@
    ],
    [
     "DRIVING INSTRUCTOR (V)",
-    3142
+    3141
    ],
    [
     "SIDEWALK CAFE",
@@ -94,7 +94,7 @@
    ],
    [
     "LIMOUSINE OWNER",
-    2348
+    2349
    ],
    [
     "LAUNDRY PREMISES",
@@ -106,7 +106,7 @@
    ],
    [
     "HOLISTIC CENTRE",
-    2049
+    2048
    ],
    [
     "SECOND HAND SHOP",
@@ -126,7 +126,7 @@
    ],
    [
     "NON-MOTORIZED REFRESHMENT VEHICLE OWNER",
-    1070
+    1071
    ],
    [
     "HEATING CONTRACTOR",
@@ -154,7 +154,7 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    555
+    556
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
@@ -185,6 +185,41 @@
    "licence_no": "B50-5684182"
   },
   {
+   "name": "COMPASS GROUP CANADA",
+   "address": "77 KING ST W, FL 11, TORONTO, ON, M5K 2A1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-18",
+   "licence_no": "B50-5684621"
+  },
+  {
+   "name": "RONCY CONVENIENCE",
+   "address": "484 RONCESVALLES AVE, TORONTO, ON, M6R 2N5",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-18",
+   "licence_no": "B50-5688321"
+  },
+  {
+   "name": "ANTYLLIA",
+   "address": "1059 BLOOR ST W, TORONTO, ON, M6H 1M5",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-18",
+   "licence_no": "B71-5684293"
+  },
+  {
+   "name": "POPEYES LOUISIANA KITCHEN",
+   "address": "366 BLOOR ST E, #1, TORONTO, ON, M4W 1H4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-18",
+   "licence_no": "B71-5684458"
+  },
+  {
+   "name": "PONCHOS TACOS",
+   "address": "646 QUEEN ST W, TORONTO, ON, M6J 1E4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-18",
+   "licence_no": "B71-5686358"
+  },
+  {
    "name": "EDO JAPAN",
    "address": "300 BOROUGH DR, FC-12, TORONTO, ON, M1P 4P5",
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
@@ -204,6 +239,41 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-11-17",
    "licence_no": "B50-5684611"
+  },
+  {
+   "name": "MARS THE STARS BAKERY",
+   "address": "121 LEBOVIC AVE, #8-B, TORONTO, ON, M1L 0J2",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-17",
+   "licence_no": "B50-5678836"
+  },
+  {
+   "name": "FRESHCO",
+   "address": "3400 DUNDAS ST W, TORONTO, ON, M6S 2S1",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-17",
+   "licence_no": "B50-5686388"
+  },
+  {
+   "name": "FOOD BASICS",
+   "address": "285 QUEEN ST E, TORONTO, ON, M5A 1S6",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-17",
+   "licence_no": "B50-5688510"
+  },
+  {
+   "name": "RAFFAELLA",
+   "address": "296 BRUNSWICK AVE, TORONTO, ON, M5S 2M7",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-17",
+   "licence_no": "B71-5688509"
+  },
+  {
+   "name": "DHAKA THAI & GRILL",
+   "address": "50 DANFORTH RD, #3, TORONTO, ON, M1L 3W4",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-17",
+   "licence_no": "B71-5688533"
   },
   {
    "name": "SIGNATURE HARMONY",
@@ -6140,125 +6210,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-21",
    "licence_no": "B71-5653189"
-  },
-  {
-   "name": "AMIGO XJ CONVENIENCE",
-   "address": "1193 DUNDAS ST W, TORONTO, ON, M6J 1X3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5651651"
-  },
-  {
-   "name": "NISOS GREEK GRILL",
-   "address": "1178A THE QUEENSWAY, TORONTO, ON, M8Z 1R5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5652876"
-  },
-  {
-   "name": "CREPE DELICIOUS",
-   "address": "220 YONGE ST, F016, TORONTO, ON, M5B 2H1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5652885"
-  },
-  {
-   "name": "KERA FRESH MEAT",
-   "address": "621 VAUGHAN RD, TORONTO, ON, M6C 2R4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5652887"
-  },
-  {
-   "name": "LA SANAZ GRILL",
-   "address": "1000 GERRARD ST E, F3, TORONTO, ON, M4M 3G6",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5652892"
-  },
-  {
-   "name": "PASTABLE",
-   "address": "1738 LAWRENCE AVE E, A, TORONTO, ON, M1R 2Y1",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5652902"
-  },
-  {
-   "name": "INS MARKET",
-   "address": "2 ST CLAIR AVE E, F-15, TORONTO, ON, M4T 2T5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5652920"
-  },
-  {
-   "name": "MIDNIGHT COOKIE QUEEN WEST",
-   "address": "561 QUEEN ST W, E, TORONTO, ON, M5V 2B6",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B50-5652924"
-  },
-  {
-   "name": "FAT BASTARD BURRITO",
-   "address": "31 REXDALE BLVD, #3107, TORONTO, ON, M9W 1P1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5651191"
-  },
-  {
-   "name": "CHEBUREKY HOUSE",
-   "address": "2372 BLOOR ST W, TORONTO, ON, M6S 1P5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5652861"
-  },
-  {
-   "name": "CHEFRY'S GLOBAL KITCHEN & CATERING",
-   "address": "390 RICHMOND ST W, B, TORONTO, ON, M5V 1X6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5652874"
-  },
-  {
-   "name": "WINGS TIME",
-   "address": "2675 EGLINTON AVE W, TORONTO, ON, M6M 1T8",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5634149"
-  },
-  {
-   "name": "EL RINCON DEL PASTORCITO",
-   "address": "1190 ST CLAIR AVE W, TORONTO, ON, M6E 1B4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5652271"
-  },
-  {
-   "name": "SZECHUAN HOUSE",
-   "address": "173 RAVEL RD, TORONTO, ON, M2H 1T1",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5652915"
-  },
-  {
-   "name": "GINO'S PIZZA",
-   "address": "787 STEELES AVE W, TORONTO, ON, M2R 3W9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5652918"
-  },
-  {
-   "name": "BIRYANI FLAMES",
-   "address": "1063 BLOOR ST W, TORONTO, ON, M6H 1M5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5652923"
-  },
-  {
-   "name": "SHELBY'S QUEEN STREET EAST",
-   "address": "1567 QUEEN ST E, TORONTO, ON, M4L 1E5",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-20",
-   "licence_no": "B71-5652922"
   }
  ]
 }
