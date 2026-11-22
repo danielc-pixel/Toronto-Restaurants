@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T17:50:02+00:00",
+ "generated_at": "2026-11-22T18:08:37+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 861,
+ "count": 855,
  "debug": {
   "rows_scanned": 160312,
   "fields": [
@@ -6147,48 +6147,6 @@
    "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
    "issued": "2026-07-25",
    "licence_no": "B50-5653613"
-  },
-  {
-   "name": "RABBA FINE FOODS",
-   "address": "4869 DUNDAS ST W, TORONTO, ON, M9A 1B2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-24",
-   "licence_no": "B50-5651775"
-  },
-  {
-   "name": "M CHA BAR",
-   "address": "555 REXDALE BLVD, TORONTO, ON, M9W 7G3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-24",
-   "licence_no": "B50-5652154"
-  },
-  {
-   "name": "MOON CAFE",
-   "address": "1355 WESTON RD, TORONTO, ON, M6M 4R9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-24",
-   "licence_no": "B50-5652294"
-  },
-  {
-   "name": "SINGARI",
-   "address": "41 LEBOVIC AVE, A124, TORONTO, ON, M1L 0H2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-24",
-   "licence_no": "B50-5653626"
-  },
-  {
-   "name": "STEELES BAKERY",
-   "address": "6235 BATHURST ST, TORONTO, ON, M2R 2A5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-24",
-   "licence_no": "B50-5653933"
-  },
-  {
-   "name": "MACEDO WINERY",
-   "address": "1381 DUFFERIN ST, TORONTO, ON, M6H 4C7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-24",
-   "licence_no": "B71-5653384"
   }
  ]
 }
