@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T18:08:37+00:00",
+ "generated_at": "2026-11-23T22:18:58+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 855,
+ "count": 852,
  "debug": {
   "rows_scanned": 160312,
   "fields": [
@@ -6126,27 +6126,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-26",
    "licence_no": "B71-5653949"
-  },
-  {
-   "name": "OLLY FRESCO'S 18 YORK",
-   "address": "18 YORK ST, #200, TORONTO, ON, M5J 2T8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-25",
-   "licence_no": "B50-5652133"
-  },
-  {
-   "name": "APPETITE",
-   "address": "900 ALBION RD, #14B, TORONTO, ON, M9V 1A5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-25",
-   "licence_no": "B50-5653400"
-  },
-  {
-   "name": "DC CLOUD KITCHEN",
-   "address": "127 MANVILLE RD, #3, TORONTO, ON, M1L 4J7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-25",
-   "licence_no": "B50-5653613"
   }
  ]
 }
