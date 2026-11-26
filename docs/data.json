@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T20:18:46+00:00",
+ "generated_at": "2026-11-26T19:55:21+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 863,
+ "count": 851,
  "debug": {
   "rows_scanned": 160303,
   "fields": [
@@ -6119,90 +6119,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-29",
    "licence_no": "B71-5654857"
-  },
-  {
-   "name": "VEL MART",
-   "address": "430 PARLIAMENT ST, TORONTO, ON, M5A 3A2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B50-5650554"
-  },
-  {
-   "name": "CANADA A&Z PRODUCTS INC",
-   "address": "8 WESTMORE DR, #2002, TORONTO, ON, M9V 3Z7",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B50-5650776"
-  },
-  {
-   "name": "SUMMERHILL MARKET",
-   "address": "3609 DUNDAS ST W, TORONTO, ON, M6S 2T2",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B50-5650934"
-  },
-  {
-   "name": "TOPGUN BURGERS",
-   "address": "490 BLOOR ST W, MAIN, TORONTO, ON, M5S 1X8",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B50-5654621"
-  },
-  {
-   "name": "INFINITY MART",
-   "address": "200 DUNDAS ST E, B-3, TORONTO, ON, M5A 4R6",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B50-5654645"
-  },
-  {
-   "name": "PEPPER PALACE",
-   "address": "9 CASE GOODS LANE, TORONTO, ON, M5A 3C4",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B50-5654651"
-  },
-  {
-   "name": "BUILDAPE NUTRITION",
-   "address": "5650 YONGE ST, #7, TORONTO, ON, M2M 4G3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B50-5653976"
-  },
-  {
-   "name": "FRESH BURGER WOODBINE",
-   "address": "3355 STEELES AVE E, C4, TORONTO, ON, M2H 3S7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B71-5651213"
-  },
-  {
-   "name": "BOTTEGA VOLO CAMPBELL",
-   "address": "300 CAMPBELL AVE, #106, TORONTO, ON, M6P 3V6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B71-5654410"
-  },
-  {
-   "name": "GOOD VIBES WEST INDIAN RESTAURANT AND BAR",
-   "address": "1523 BIRCHMOUNT RD, TORONTO, ON, M1P 2H2",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B71-5654436"
-  },
-  {
-   "name": "THE BISTRO ON AVENUE",
-   "address": "1988 AVENUE RD, TORONTO, ON, M5M 4A4",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B71-5654620"
-  },
-  {
-   "name": "KUBENDRA",
-   "address": "1123 ALBION RD, #1, TORONTO, ON, M9V 1A9",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-28",
-   "licence_no": "B71-5654628"
   }
  ]
 }
