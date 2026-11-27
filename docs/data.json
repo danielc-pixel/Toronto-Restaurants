@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-26T19:55:21+00:00",
+ "generated_at": "2026-11-27T19:44:04+00:00",
  "source": "municipal-licensing-and-standards-business-licences-and-permits (resource: Business licences data)",
  "lookback_days": 120,
- "count": 851,
+ "count": 849,
  "debug": {
-  "rows_scanned": 160303,
+  "rows_scanned": 160322,
   "fields": [
    "businessphone",
    "businessphoneext",
@@ -46,19 +46,19 @@
    ],
    [
     "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-    26377
+    26378
    ],
    [
     "PUBLIC GARAGE",
-    11758
+    11765
    ],
    [
     "PERSONAL SERVICES SETTINGS",
-    11241
+    11246
    ],
    [
     "TAXICAB OWNER",
-    9340
+    9339
    ],
    [
     "BUILDING RENOVATOR",
@@ -74,11 +74,11 @@
    ],
    [
     "TEMPORARY SIGN - MOBILE",
-    4527
+    4529
    ],
    [
     "MASTER PLUMBER",
-    3288
+    3290
    ],
    [
     "DRIVING INSTRUCTOR (V)",
@@ -90,7 +90,7 @@
    ],
    [
     "PLUMBING CONTRACTOR",
-    2380
+    2382
    ],
    [
     "LIMOUSINE OWNER",
@@ -114,7 +114,7 @@
    ],
    [
     "MASTER HEATING INSTALLER",
-    1426
+    1424
    ],
    [
     "MOTORIZED REFRESHMENT VEHICLE OWNER",
@@ -130,7 +130,7 @@
    ],
    [
     "HEATING CONTRACTOR",
-    802
+    801
    ],
    [
     "DRIVING SCHOOL OPERATOR (B)",
@@ -154,11 +154,11 @@
    ],
    [
     "VAPOUR PRODUCT RETAILER",
-    558
+    559
    ],
    [
     "HAWKER/PEDLAR ON FOOT",
-    531
+    529
    ]
   ]
  },
@@ -206,6 +206,27 @@
    "licence_no": "B50-5684182"
   },
   {
+   "name": "ONE MEDICAL PHARMACY",
+   "address": "20 WYNFORD DR, #102, TORONTO, ON, M3C 1J4",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-26",
+   "licence_no": "B50-5688806"
+  },
+  {
+   "name": "CAFE MIMICO",
+   "address": "300 MANITOBA ST, #9, TORONTO, ON, M8Y 4G6",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-26",
+   "licence_no": "B71-5675231"
+  },
+  {
+   "name": "CIRCLE K",
+   "address": "2826 VICTORIA PARK AVE, TORONTO, ON, M2J 4A8",
+   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
+   "issued": "2026-11-25",
+   "licence_no": "B50-5688740"
+  },
+  {
    "name": "MARRY ME MOCHI",
    "address": "300 BOROUGH DR, #39, TORONTO, ON, M1P 4P5",
    "category": "EATING OR DRINKING ESTABLISHMENT",
@@ -218,6 +239,13 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-11-25",
    "licence_no": "B71-5688826"
+  },
+  {
+   "name": "BIRYANI&BEYOND",
+   "address": "19 LAPSLEY RD, TORONTO, ON, M1B 1K1",
+   "category": "EATING OR DRINKING ESTABLISHMENT",
+   "issued": "2026-11-25",
+   "licence_no": "B71-5689999"
   },
   {
    "name": "SALA KITCHEN",
@@ -6077,48 +6105,6 @@
    "category": "EATING OR DRINKING ESTABLISHMENT",
    "issued": "2026-07-30",
    "licence_no": "B71-5656282"
-  },
-  {
-   "name": "BILLY BISHOP DUTY FREE",
-   "address": "2 EIREANN QUAY, C3/SPC 552, TORONTO, ON, M5V 2R9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-29",
-   "licence_no": "B50-5648905"
-  },
-  {
-   "name": "CHARLIE'S TEA (SC)",
-   "address": "3278 MIDLAND AVE, D116, TORONTO, ON, M1V 0C9",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-29",
-   "licence_no": "B50-5650557"
-  },
-  {
-   "name": "VILLAGE GREEN MARKET",
-   "address": "3 VILLAGE GREEN SQ, #1, TORONTO, ON, M1S 0N5",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-29",
-   "licence_no": "B50-5653619"
-  },
-  {
-   "name": "EXEL CONVENIENCE INC",
-   "address": "1883 MCNICOLL AVE, #20, TORONTO, ON, M1V 5M3",
-   "category": "TAKE-OUT OR RETAIL FOOD ESTABLISHMENT",
-   "issued": "2026-07-29",
-   "licence_no": "B50-5647547"
-  },
-  {
-   "name": "GREELZ IN KENSINGTON",
-   "address": "198 AUGUSTA AVE, TORONTO, ON, M5T 2L6",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-29",
-   "licence_no": "B71-5654854"
-  },
-  {
-   "name": "CHINA COTTAGE",
-   "address": "5985 STEELES AVE E, #2-3, TORONTO, ON, M1V 5P7",
-   "category": "EATING OR DRINKING ESTABLISHMENT",
-   "issued": "2026-07-29",
-   "licence_no": "B71-5654857"
   }
  ]
 }
